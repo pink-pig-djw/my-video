@@ -1,0 +1,174 @@
+[
+ {
+  "id": "63_room",
+  "out": "assets/key/63_room.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "A Japanese living room in 1963, seen from behind a family of four sitting on tatami around a low table, all facing away from us, dark silhouettes with soft rim light. Dead centre of the frame stands a small wooden television set on four legs; its screen is a plain glowing pale-grey rectangle with nothing on it, facing us squarely. Paper sliding doors, a hanging lamp, warm dim colour. Painted anime background style, muted nostalgic colours."
+ },
+ {
+  "id": "63_city",
+  "out": "assets/key/63_city.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 1960s Japanese black-and-white television animation. Pure monochrome, bold simple brush-ink outlines, flat grey tones, very simple rounded shapes, large simple eyes, printed-cel look, minimal detail. An original design, not based on any existing series. A very wide flat side-on view of a retro-futuristic city: rounded towers, elevated glass tube roads, small flying cars, puffy clouds. No people. The ground runs along the lower fifth of the image as a simple flat road. Designed for a sideways pan."
+ },
+ {
+  "id": "63_run_a",
+  "out": "assets/key/63_run_a.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Era style: 1960s Japanese black-and-white television animation. Pure monochrome, bold simple brush-ink outlines, flat grey tones, very simple rounded shapes, large simple eyes, printed-cel look, minimal detail. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. Full body in strict side view, running to the right, contact pose: legs at maximum stride, arms swung wide, determined.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "63_run_b",
+  "out": "assets/key/63_run_b.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Era style: 1960s Japanese black-and-white television animation. Pure monochrome, bold simple brush-ink outlines, flat grey tones, very simple rounded shapes, large simple eyes, printed-cel look, minimal detail. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. Full body in strict side view, running to the right, passing pose: legs close together with one knee raised high, body lifted, arms near the body.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "63_face",
+  "out": "assets/key/63_face.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 1960s Japanese black-and-white television animation. Pure monochrome, bold simple brush-ink outlines, flat grey tones, very simple rounded shapes, large simple eyes, printed-cel look, minimal detail. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. Big head-on close-up of her face, shouting with resolve, speed lines radiating behind her on a plain white ground.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "63_hand",
+  "out": "assets/key/63_hand.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 1960s Japanese black-and-white television animation. Pure monochrome, bold simple brush-ink outlines, flat grey tones, very simple rounded shapes, large simple eyes, printed-cel look, minimal detail. An original design, not based on any existing series. Close-up of a girl's left hand clenched into a fist with a small knot of cord on the wrist, radiating speed lines behind on a plain white ground."
+ },
+ {
+  "id": "63_eye",
+  "out": "assets/key/63_eye.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 1960s Japanese black-and-white television animation. Pure monochrome, bold simple brush-ink outlines, flat grey tones, very simple rounded shapes, large simple eyes, printed-cel look, minimal detail. An original design, not based on any existing series. Extreme close-up of one large simple eye filling the whole frame, with the black pupil exactly at the centre of the image, simple star-like highlight, a few thick lashes.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "95_under",
+  "out": "assets/key/95_under.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: mid-1990s Japanese hand-painted cel animation. Thin sharp line art, hard two-tone cel shadows, cold desaturated palette, hand-painted gouache backgrounds, slight film softness in the paint only. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. Seen from far below in deep blue-green water, she sinks slowly toward us, arms loose, hair and apron floating, small and dark against the pale wavering light of the surface high above. Rising bubbles, shafts of cold light.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "95_corridor",
+  "out": "assets/key/95_corridor.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: mid-1990s Japanese hand-painted cel animation. Thin sharp line art, hard two-tone cel shadows, cold desaturated palette, hand-painted gouache backgrounds, slight film softness in the paint only. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. An empty Japanese school corridor at dusk in one-point perspective, windows along the left, long fluorescent tubes on the ceiling, polished floor reflecting the light. She stands far away in the exact centre with her back to us, small and motionless. Lonely, enormous stillness.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "95_rain",
+  "out": "assets/key/95_rain.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: mid-1990s Japanese hand-painted cel animation. Thin sharp line art, hard two-tone cel shadows, cold desaturated palette, hand-painted gouache backgrounds, slight film softness in the paint only. An original design, not based on any existing series. View through a rain-streaked window at night onto a dense city of data towers and cold signage lights with no readable signs. On the glass, the faint reflection of the girl's face from the reference sheet overlaps the city, looking down, expressionless.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "95_eye",
+  "out": "assets/key/95_eye.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: mid-1990s Japanese hand-painted cel animation. Thin sharp line art, hard two-tone cel shadows, cold desaturated palette, hand-painted gouache backgrounds, slight film softness in the paint only. An original design, not based on any existing series. Extreme close-up of one eye from the reference sheet, cold blue-grey light on the amber iris, filling the whole frame, the pupil exactly at the centre of the image, hard cel highlights, the small mole just below the eye.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "20_sky",
+  "out": "assets/key/20_sky.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. Looking straight down from extremely high altitude while falling: torn clouds rush past the edges, and far below a vast dark plain is split by rivers of burning orange light, with towering walls of flame spiralling up toward the viewer. Strong depth, vortex composition centred in the frame. No people."
+ },
+ {
+  "id": "20_fire",
+  "out": "assets/key/20_fire.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. A colossal firestorm environment at ground level, wide view: curling walls of orange and crimson flame, flying embers, black broken stone pillars, a deep glowing centre. No people."
+ },
+ {
+  "id": "20_fall",
+  "out": "assets/key/20_fall.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. She dives head-first toward the viewer in extreme foreshortening, one arm reaching forward, hair and apron whipping behind her, fierce focused eyes, lit by orange fire from below.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "20_spin",
+  "out": "assets/key/20_spin.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. Mid-air spinning attack, whole body twisted in a dynamic arc, arm swung out, hair and apron flying, intense expression, dramatic orange rim light. Full body.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "20_eye",
+  "out": "assets/key/20_eye.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. Extreme close-up of one eye from the reference sheet filling the whole frame, the pupil exactly at the centre of the image, an extremely detailed amber iris with layered glowing fibres and sparkling highlights, reflected fire, individual lashes, the small mole just below the eye.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "20_meadow",
+  "out": "assets/key/20_meadow.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. A silent, endless meadow of small white and pale-blue flowers under a soft high sky with thin clouds, a narrow footpath leading to the horizon, far-off weathered stone ruins. Gentle morning light, immense calm. No people."
+ },
+ {
+  "id": "20_walk",
+  "out": "assets/key/20_walk.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. Full body seen from directly behind, walking slowly away, shoulders relaxed, a breeze moving her hair and apron, soft morning light.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "20_turn",
+  "out": "assets/key/20_turn.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous digital compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. The girl from the attached reference sheet, simplified into this era's drawing style but still recognisable: chestnut hair in a small bun held by a pencil, white shirt, navy apron-dress, boots, a small red knot on her left wrist. Do NOT draw the long trailing cord; only the knot. In a meadow of small white and pale-blue flowers under soft morning light, she looks back over her shoulder at us, medium close-up, hair lifting in the breeze, a small quiet smile with tired eyes, petals drifting past.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ }
+]

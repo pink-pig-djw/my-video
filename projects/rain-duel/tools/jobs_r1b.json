@@ -1,0 +1,119 @@
+[
+ {
+  "id": "bg_wide",
+  "out": "assets/gen/bg_wide.png",
+  "aspect": "wide",
+  "style": "scene",
+  "prompt": "Extreme wide establishing shot of an old elevated railway viaduct with two pairs of wet steel rails, concrete parapets and catenary poles with overhead wires, above a flooded old city district, seen from a distance and slightly above. Night, heavy rain with visible rain streaks, wet reflective surfaces, mist. The viaduct with concrete arches crosses the whole frame. The streets below are flooded with dark water reflecting a few flickering neon signs (abstract glowing shapes only, no characters), old low-rise buildings with tiled roofs, tangled power lines, a single red railway signal light glowing in the middle of the bridge. A distant city skyline in mist, low heavy clouds lit faintly by distant lightning. No people.",
+  "refs": []
+ },
+ {
+  "id": "bg_deck",
+  "out": "assets/gen/bg_deck.png",
+  "aspect": "wide",
+  "style": "scene",
+  "prompt": "Eye-level view standing on the deck of an old elevated railway viaduct with two pairs of wet steel rails, concrete parapets and catenary poles with overhead wires, above a flooded old city district, looking straight along the rails stretching far into the distance in strong one-point perspective. Night, heavy rain with visible rain streaks, wet reflective surfaces, mist. Puddles between the sleepers reflect light, catenary poles and wires repeat into the distance, low parapets on both sides, the flooded city glows faintly below, a red signal light far away. No people.",
+  "refs": []
+ },
+ {
+  "id": "bg_sky",
+  "out": "assets/gen/bg_sky.png",
+  "aspect": "wide",
+  "style": "scene",
+  "prompt": "Looking straight up into a violent storm sky at night: massive swirling dark clouds, a web of branching lightning inside the clouds lighting them violet-blue from within, heavy rain falling toward the viewer. No ground, no people.",
+  "refs": []
+ },
+ {
+  "id": "s_standoff",
+  "out": "assets/gen/s_standoff.png",
+  "aspect": "wide",
+  "style": "scene",
+  "prompt": "Symmetrical extreme wide side view of an old elevated railway viaduct with two pairs of wet steel rails, concrete parapets and catenary poles with overhead wires, above a flooded old city district; the viaduct crosses the frame horizontally. Night, heavy rain with visible rain streaks, wet reflective surfaces, mist. Jin stands at the far left end, small in the frame, Ling stands at the far right end, facing each other across about fifty metres of wet rails. A red railway signal light glows exactly in the centre between them. Mist, the flooded city glowing below. Very cinematic. Characters: Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord. Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip.",
+  "refs": [
+   "assets/ref/ref_jin.png",
+   "assets/ref/ref_ling.png"
+  ]
+ },
+ {
+  "id": "k_jin_walk",
+  "out": "assets/gen/k_jin_walk.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "prompt": "Medium-wide shot from a low angle in front of Jin as she walks steadily toward the camera along the rails of an old elevated railway viaduct with two pairs of wet steel rails, concrete parapets and catenary poles with overhead wires, above a flooded old city district. Night, heavy rain with visible rain streaks, wet reflective surfaces, mist. Her open long black coat with crimson lining billows behind her in the wind, her ponytail swings, the sheathed long sword is held loosely in her left hand at her side with the brass bell hanging from the hilt. Calm, menacing expression. Splashes at her boots; the red signal light behind her gives her a red rim light. She is in the centre of the frame, full body visible. Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord.",
+  "refs": [
+   "assets/ref/ref_jin.png"
+  ]
+ },
+ {
+  "id": "k_ling_stand",
+  "out": "assets/gen/k_ling_stand.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "prompt": "Medium shot of Ling standing still in heavy rain at the far end of an old elevated railway viaduct with two pairs of wet steel rails, concrete parapets and catenary poles with overhead wires, above a flooded old city district, facing the camera, head slightly lowered, eyes looking up through her silver bangs. Her twin short blades in reverse grip hang at her sides; her white long coat and the long thin braid with the bell move in the wind. Cold cyan light from a flickering sign below lights her from one side, deep blue night behind, rain streaks. Framed from the knees up, centred. Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip.",
+  "refs": [
+   "assets/ref/ref_ling.png"
+  ]
+ },
+ {
+  "id": "s_clash",
+  "out": "assets/gen/s_clash.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "prompt": "Dramatic close-up of a sword clash between Jin (left) and Ling (right), their faces a few inches apart over the crossed blades. Jin's long sword presses down from the left, its edge glowing ember orange; Ling blocks with both short blades crossed in reverse grip. Bright sparks burst where the blades meet, rain droplets around them, Jin grinning fiercely, Ling's eyes cold and focused. Warm crimson light on Jin's side, cold cyan light on Ling's side. Night rain. Shallow depth of field. Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord. Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip.",
+  "refs": [
+   "assets/ref/ref_jin.png",
+   "assets/ref/ref_ling.png"
+  ]
+ },
+ {
+  "id": "s_jin_eye",
+  "out": "assets/gen/s_jin_eye.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "prompt": "Extreme close-up of Jin's face from the bridge of the nose up to her forehead, filling the frame horizontally: her sharp amber-gold eyes wide open and intense, rain running down her face and dripping from her black bangs with crimson tips, the small beauty mark under her left eye, warm red rim light, dark blue background. Very detailed eyes with light reflections. Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord.",
+  "refs": [
+   "assets/ref/ref_jin.png"
+  ]
+ },
+ {
+  "id": "s_ling_eye",
+  "out": "assets/gen/s_ling_eye.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "prompt": "Extreme close-up of Ling's face from the bridge of the nose up to her forehead, filling the frame horizontally: her calm ice-cyan eyes wide open, rain running down her face and dripping from her silver-white bangs, cold cyan rim light, dark blue background. Very detailed eyes with light reflections. Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip.",
+  "refs": [
+   "assets/ref/ref_ling.png"
+  ]
+ },
+ {
+  "id": "k_exchange_a",
+  "out": "assets/gen/k_exchange_a.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "prompt": "Medium-wide side view on the rain-soaked deck of an old elevated railway viaduct with two pairs of wet steel rails, concrete parapets and catenary poles with overhead wires, above a flooded old city district. Night, heavy rain with visible rain streaks, wet reflective surfaces, mist. Jin (left) swings her long sword in a huge downward diagonal arc toward Ling (right), who twists sideways and leans back to dodge, one short blade raised to deflect. Water splashes from their feet, an ember-orange glow on Jin's blade edge, cold cyan light on Ling. Both full body in frame, dynamic action, motion in their hair and coats. Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord. Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip.",
+  "refs": [
+   "assets/ref/ref_jin.png",
+   "assets/ref/ref_ling.png"
+  ]
+ },
+ {
+  "id": "sp_jin",
+  "out": "assets/gen/sp_jin.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Character action pose sheet on a plain flat solid pure green background (#00FF00). Four full-body action poses of Jin in a 2 by 2 grid, all at the same scale, each figure well separated: (top left) a low forward dash to the right, body leaning far forward, sword held back low in her right hand, coat streaming behind; (top right) braced and sliding backward toward the left with knees bent, the sword's tip dragging on the ground in front of her; (bottom left) the follow-through of a huge horizontal slash to the right, sword swept far across, coat flaring; (bottom right) a high leap, knees tucked, sword raised overhead in both hands. Night-time lighting with a red rim light. Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord.",
+  "refs": [
+   "assets/ref/ref_jin.png"
+  ]
+ },
+ {
+  "id": "sp_ling",
+  "out": "assets/gen/sp_ling.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Character action pose sheet on a plain flat solid pure magenta background (#FF00FF). Four full-body action poses of Ling in a 2 by 2 grid, all at the same scale, each figure well separated: (top left) a low forward dash to the left, twin blades held back in reverse grip, coat streaming behind; (top right) an acrobatic backflip leap, upside down, braid flying; (bottom left) falling backward helplessly, arms spread, coat and hair floating upward; (bottom right) kneeling on one knee while sliding, one hand on the ground, the other blade held out. Night-time lighting with a cyan rim light. Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip.",
+  "refs": [
+   "assets/ref/ref_ling.png"
+  ]
+ }
+]

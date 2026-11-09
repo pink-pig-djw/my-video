@@ -1,0 +1,88 @@
+{
+ "uploads": {
+  "k_train_b": "z6a3jhb6zpfUVarjAECG",
+  "k_train_a": "fH9Nvhm8NuDsQMrVY2br",
+  "k_ling_under": "UJ60ZRhhNRid3ZG9KERz",
+  "k_ling_stand": "wLhCt20SYkq1akb3IHgk",
+  "k_ling_rise": "6lMpNwROGlqjMegA4pEG",
+  "k_ling_fall": "LccjK74Taz7aZU2C6nCg",
+  "k_ling_dive": "x9YE13SEC2Ut2m2es20W",
+  "k_ling_dash": "RAeAUMVreHJj1Fw80pG4",
+  "k_jin_walk": "lr9m2sW0KVnhli2pkBAu",
+  "k_jin_vortex": "nhM0Zt8tm8N4fQNTnZ6f",
+  "k_jin_swing": "13VO7EKOzbS2q5JcAYwJ",
+  "k_jin_deflect": "zg7iyWEqXFkfuvtPglwn",
+  "k_jin_dash": "jkt87sxB2FVO4CxtC2Yz",
+  "k_exchange_b": "ERPOu89SJWoYtswwtbKW",
+  "k_exchange_a": "l4dAo6ibWzOQNe7vkx6w"
+ },
+ "balance_before": 4266,
+ "cap": 1100,
+ "jobs": [
+  {
+   "clip": "v_jin_walk",
+   "history": "LtSqfrpSjgKE8VjdHJym",
+   "credits": 70
+  },
+  {
+   "clip": "v_ling_stand",
+   "history": "fjRiZ51l8PblbvDtiHBf",
+   "credits": 42
+  },
+  {
+   "clip": "v_exchange",
+   "history": "dcrsvE99ij2T7owNtScz",
+   "credits": 70
+  },
+  {
+   "clip": "v_jin_dash",
+   "history": "YDDfhIFIkPzPVs5gjuO4",
+   "credits": 42
+  },
+  {
+   "clip": "v_ling_dash",
+   "history": "Jv9b35S3YMIwgutph4OK",
+   "credits": 42
+  },
+  {
+   "clip": "v_jin_swing",
+   "history": "kPBtUL5M3k6GxjyO7jK2",
+   "credits": 42
+  },
+  {
+   "clip": "v_ling_dive",
+   "history": "FMLb99aNLE2aqn4te5it",
+   "credits": 42
+  },
+  {
+   "clip": "v_jin_deflect",
+   "history": "8VszgaSIUuXxVcel5OJI",
+   "credits": 42
+  },
+  {
+   "clip": "v_ling_fall",
+   "history": "xJzQFCZ3WAIy6GN7KmaG",
+   "credits": 42
+  },
+  {
+   "clip": "v_train",
+   "history": "ijgLrnqE0k42lfgM2Nz3",
+   "credits": 70
+  },
+  {
+   "clip": "v_ling_under",
+   "history": "o0KTrzxJ5diOOObQvbKh",
+   "credits": 70
+  },
+  {
+   "clip": "v_ling_rise",
+   "history": "2BKK463cN4gp32XkFxiL",
+   "credits": 42
+  },
+  {
+   "clip": "v_jin_vortex",
+   "history": "4ODTzE6HJNKeS4YQ4GfJ",
+   "credits": 42
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+[
+ {
+  "id": "17_bg",
+  "out": "assets/key/17_bg.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: Japanese paper cut-out animation of the 1910s-20s. Black, white and grey cut washi paper shapes with visible torn fibre edges, flat layered paper, soft shadows between layers. An original design. A paper theatre landscape in many overlapping layers: jagged paper mountains, a round paper moon, paper pine trees, small paper waves in front. No people."
+ },
+ {
+  "id": "17_girl",
+  "out": "assets/key/17_girl.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "Era style: Japanese paper cut-out animation of the 1910s-20s. Black, white and grey cut washi paper shapes with visible torn fibre edges, flat layered paper, soft shadows between layers. An original design. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. A jointed black paper puppet of her in full-body side view, walking to the right, with visible small pin joints at shoulder, hip and knee. The knot may stay grey.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "58_lotus",
+  "out": "assets/key/58_lotus.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 1950s Japanese hand-painted colour theatrical animation. Soft watercolour backgrounds, gentle ink lines, delicate pastel colour. An original design. A moonlit lotus pond at night, broad lotus leaves and pink blossoms, a slender white serpent gliding across the water between the leaves, soft ripples, mist. No people."
+ },
+ {
+  "id": "79_fleet",
+  "out": "assets/key/79_fleet.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: late-1970s Japanese TV cel animation. Thick slightly rough ink lines, flat cel paint, airbrushed painted backgrounds, deep black shadows, saturated colours. An original design, not based on any existing series or mecha. Looking straight up from just beneath the hull of a colossal old-fashioned steel space cruiser passing overhead across a starfield, riveted armour plates, turrets, a bright engine glow at the far end, strong perspective. No people."
+ },
+ {
+  "id": "79_hangar",
+  "out": "assets/key/79_hangar.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: late-1970s Japanese TV cel animation. Thick slightly rough ink lines, flat cel paint, airbrushed painted backgrounds, deep black shadows, saturated colours. An original design, not based on any existing series or mecha. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. She stands tiny at the foot of a towering original boxy industrial walking machine in a dim hangar, seen from behind and low down, looking up at it; welding sparks, work lights, cables, oil-stained steel.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "85_flight",
+  "out": "assets/key/85_flight.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: mid-1980s Japanese theatrical hand-drawn animation. Lush gouache backgrounds, rich natural colours, meticulous painted detail, towering painterly clouds. An original design. Viewer's point of view flying very low over an endless sea of wind-swept green grass toward a colossal ancient tree on the horizon, under towering white cumulus clouds and deep blue sky. No people."
+ },
+ {
+  "id": "85_glider",
+  "out": "assets/key/85_glider.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: mid-1980s Japanese theatrical hand-drawn animation. Lush gouache backgrounds, rich natural colours, meticulous painted detail, towering painterly clouds. An original design. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. She rides a small hand-built wooden glider high above a sea of clouds, medium side view, lying forward on it, hair and apron streaming, eyes bright with joy, sunlight.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "88_neon",
+  "out": "assets/key/88_neon.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: late-1980s Japanese theatrical cyberpunk hand-drawn animation. Dense meticulously drawn night city, glowing neon, strong backlight, deep contrast. No readable signs. An original design. Plunging down between tall neon towers at night toward a packed elevated highway, red tail-light streams curving into the distance, wet reflections, strong one-point perspective. No people visible."
+ },
+ {
+  "id": "00_class",
+  "out": "assets/key/00_class.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: early-2000s Japanese digital TV animation. Bright clean digital colours, soft gradients, crisp thin lines, glossy highlights. An original design. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. A sunny classroom by an open window in spring, white curtains lifting in the breeze, cherry blossom outside, she stands at the window just beginning to turn toward us with the start of a smile.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "00_night",
+  "out": "assets/key/00_night.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: early-2000s Japanese digital TV animation. Bright clean digital colours, soft gradients, crisp thin lines, glossy highlights. An original design. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. A small dark bedroom late at night, she sits on the floor hugging her knees in a big cardigan over her shirt, watching an unseen television, her face and the room lit only by flickering blue light, posters with no readable writing, seen from the side.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "00_slope",
+  "out": "assets/key/00_slope.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: early-2000s Japanese digital TV animation. Bright clean digital colours, soft gradients, crisp thin lines, glossy highlights. An original design. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. Seen from behind and low down as she sprints down a steep sloping seaside town road toward a bright blue sea, utility poles, midsummer clouds, hair and apron flying, one arm back.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "10_wall",
+  "out": "assets/key/10_wall.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2010s Japanese high-budget digital animation. Heavy dramatic shadows, sharp lines, huge sense of scale, detailed painted environments. An original design, not based on any existing series. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. Extreme low angle: she is a tiny figure at the bottom of the frame looking up at a colossal ancient stone wall that fills the sky, its shadow swallowing everything, thin bright sky only at the very top.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "10_swing",
+  "out": "assets/key/10_swing.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2010s Japanese high-budget digital animation. Heavy dramatic shadows, sharp lines, huge sense of scale, detailed painted environments. An original design, not based on any existing series. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. Seen from just behind her shoulder as she swings fast on a taut red line across a dense old town of tiled rooftops at dawn, the street far below, strong motion and depth.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "16_sky",
+  "out": "assets/key/16_sky.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2010s Japanese theatrical digital animation. Luminous, extremely detailed skies and clouds, soft lens glow, rich dusk colours. An original design. An immense dusk sky above a sea of glowing clouds, a brilliant shooting star splitting into two threads of light across the deepening blue and orange, first stars appearing, tiny distant hills at the bottom. No people."
+ },
+ {
+  "id": "20_land",
+  "out": "assets/key/20_land.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. Full body, she lands in a low wide crouch on cracked burning stone, one arm out, skirt settling, dust bursting outward, a colossal wall of orange flame behind her. Her hair stays in the small messy bun with the yellow pencil clearly visible; no ponytail.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ },
+ {
+  "id": "20_blade",
+  "out": "assets/key/20_blade.png",
+  "aspect": "landscape",
+  "style": "raw",
+  "prompt": "Era style: 2020s Japanese theatrical digital animation. Very sharp clean line art, rich detail, luminous compositing, volumetric light, deep saturated colour. An original design, not based on any existing series. The girl from the attached reference sheet, redrawn in this era's style but clearly the same person: chestnut hair in a small messy bun held by a yellow pencil, white shirt with rolled sleeves, navy apron-dress, black boots, a small red knot on her left wrist. Do NOT draw a long trailing cord. Dynamic close medium shot, she swings her arm through the frame and a thin blazing vermilion line of light cuts across the whole picture like a blade, her eyes fierce, sparks and embers in the air, firestorm behind. Her hair stays in the small messy bun with the yellow pencil.",
+  "refs": [
+   "assets/ref/sheet.png"
+  ]
+ }
+]

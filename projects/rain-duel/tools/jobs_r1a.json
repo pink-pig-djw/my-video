@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ref_jin",
+  "out": "assets/ref/ref_jin.png",
+  "aspect": "landscape",
+  "style": "sheet",
+  "prompt": "Character design sheet of Jin: a tall young woman around 20 with an athletic build. Long straight black hair tied in a high ponytail that reaches her waist; the last third of the ponytail and the tips of her bangs fade to vivid crimson. Sharp amber-gold eyes, confident sharp-featured face, a small beauty mark under her left eye. Outfit: black high-collar sleeveless fitted combat top, black fitted trousers tucked into black knee-high combat boots, both forearms wrapped in off-white bandages, and a long black coat worn open with a vivid crimson lining and a ragged torn hem reaching her calves. Weapon: one long single-edged slightly curved sword (blade about 110 cm) with a black wrapped hilt and a round black guard; a small brass bell hangs from the end of the hilt on a short crimson cord. Show three views side by side at the same scale: full-body front view, full-body three-quarter back view showing the coat lining and ponytail, and a large head-and-shoulders close-up of her face. Also draw the sword alone, unsheathed, lying horizontally along the bottom, with its black sheath next to it.",
+  "refs": []
+ },
+ {
+  "id": "ref_ling",
+  "out": "assets/ref/ref_ling.png",
+  "aspect": "landscape",
+  "style": "sheet",
+  "prompt": "Character design sheet of Ling: a slim young woman around 19, a little shorter than Jin. Silver-white hair in a chin-length bob with straight bangs, plus one long thin braid on her left side reaching her waist, with a small brass bell tied at the braid's end on a pale blue cord. Calm ice-cyan eyes, gentle but cool face. Outfit: a white high-collar long coat reaching below the knees, fitted at the waist by a dark navy belt, navy inner lining, silver clasps down the front, the coat split at the sides; navy fitted shorts over black tights, white short boots, black fingerless gloves. Weapons: twin short straight single-edged silver blades (about 45 cm) with white wrapped hilts, held in reverse grip. Show three views side by side at the same scale: full-body front view, full-body three-quarter back view showing the braid and the coat, and a large head-and-shoulders close-up of her face. Also draw the two short blades alone, lying horizontally along the bottom.",
+  "refs": []
+ }
+]
