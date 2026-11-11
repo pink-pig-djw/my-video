@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a148d8-fd54-79e0-84b8-358c95fd786c"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll edit the attached image’s mouth into a small rounded “ooh” and keep the rest unchanged."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":43751,"cached_input_tokens":36480,"cache_write_input_tokens":0,"output_tokens":246,"reasoning_output_tokens":46}}

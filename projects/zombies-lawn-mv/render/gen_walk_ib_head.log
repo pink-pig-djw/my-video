@@ -1,0 +1,4 @@
+21:18:02 1 job(s), concurrency 1, model gpt-6-sol
+21:18:02 [zwalk_ib_head] start (attempt 1)
+21:19:18 [zwalk_ib_head] ok -> assets/gen/zwalk_ib_head.png (76s)
+21:19:18 done; failed: none

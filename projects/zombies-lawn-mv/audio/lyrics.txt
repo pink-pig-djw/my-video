@@ -1,0 +1,58 @@
+# Lyrics from the user's sheet (2026-10-27).
+# Plain line = the sunflower (lead, female). "Z:" = a zombie sings it (low male voice, measured by pitch).
+# "~" = the sunflower's echo of a zombie line; "~?" = a backing "yeah" too faint to align (the mouth follows the voice there).
+@intro
+Sunflower
+One, two, three
+ooh
+@chorus1
+There's a zombie on your lawn
+There's a zombie on your lawn
+~?(yeah)
+There's a zombie on your lawn
+We don't want zombies on the lawn
+~?(yeah)
+@verse1
+I know your type, tall, dark, and dead
+You want to bite all the petals off of my head
+And then eat the brains of the one who planted me here
+I'm just a sunflower
+But see me power an entire infantry
+You like the taste of brains, we don't like zombies
+@zombies1
+Z: I used to play football
+~(play football)
+Z: Road cones protect my head
+~(cone on his head)
+Z: I have a screen-door shield
+~(screen-door shield)
+Z: We are the undead!
+@chorus2
+There's a zombie on your lawn
+There's a zombie on your lawn
+~?(yeah)
+There's a zombie on your lawn
+We don't want zombies on the lawn
+~?(yeah)
+@verse2
+Maybe it's time to reevaluate
+I know you have a lot of food on your plate
+Brains are quite rich in cholesterol
+You're dead, so it doesn't matter
+Instead, we'll use this solar power
+To make a lawn defense at any hour
+@zombies2
+Z: I like your tricycle
+~(tricycle)
+Z: There's butter on my head
+~(on his head)
+Z: I'm gonna eat your brains
+~(no, no, no, no)
+Z: We are the undead!
+@chorus3
+There's a zombie on your lawn
+There's a zombie on your lawn
+~?(yeah)
+There's a zombie on your lawn
+We don't want zombies on the lawn
+~?(yeah)

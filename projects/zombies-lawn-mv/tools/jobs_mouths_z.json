@@ -1,0 +1,142 @@
+[
+ {
+  "id": "z_basic_closed",
+  "out": "assets/mouth/raw/z_basic_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_basic.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_basic_wide",
+  "out": "assets/mouth/raw/z_basic_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_basic.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_football_closed",
+  "out": "assets/mouth/raw/z_football_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_football.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_football_wide",
+  "out": "assets/mouth/raw/z_football_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_football.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_cone_closed",
+  "out": "assets/mouth/raw/z_cone_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_cone.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_cone_wide",
+  "out": "assets/mouth/raw/z_cone_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_cone.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_door_closed",
+  "out": "assets/mouth/raw/z_door_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_door.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_door_wide",
+  "out": "assets/mouth/raw/z_door_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_door.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_trike_closed",
+  "out": "assets/mouth/raw/z_trike_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_trike.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_trike_wide",
+  "out": "assets/mouth/raw/z_trike_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_trike.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_butter_closed",
+  "out": "assets/mouth/raw/z_butter_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_butter.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_butter_wide",
+  "out": "assets/mouth/raw/z_butter_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_butter.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_dolphin_closed",
+  "out": "assets/mouth/raw/z_dolphin_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_dolphin.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth CLOSED: the grey-green lips shut in a flat, slightly crooked line (no opening, no teeth showing). Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ },
+ {
+  "id": "z_dolphin_wide",
+  "out": "assets/mouth/raw/z_dolphin_wide.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/z_dolphin.png"
+  ],
+  "prompt": "Edit the attached close-up of this zombie's face. Change ONLY the mouth: his mouth opened very WIDE as if groaning or shouting a song: a big dark opening with a few crooked teeth on top and bottom, jaw dropped. Everything else must stay exactly as in the attached image: the same framing and crop, the same head, eyes, hair, skin colour, clothes, outlines, lighting and art style."
+ }
+]

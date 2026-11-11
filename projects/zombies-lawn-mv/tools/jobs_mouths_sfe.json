@@ -1,0 +1,22 @@
+[
+ {
+  "id": "sfe_closed",
+  "out": "assets/mouth/raw/sfe_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sfe.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the eyes: BOTH EYES CLOSED happily: each eye is now just a short, thick, curved dark line arching upward (like ^ ^) at the height of the middle of the old eyes; the big black eye ovals are COMPLETELY gone, with no trace, shadow, outline or darker patch left where they were: there the face disc is the same smooth plain golden-brown texture as the rest of the face; the eyebrows stay. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same mouth, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sfe_wink",
+  "out": "assets/mouth/raw/sfe_wink.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sfe.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the eyes: a playful WINK: ONLY the eye on the RIGHT side of the image is closed, drawn as a short, thick, curved dark line arching upward (like ^) at the height of the middle of the old eye, with no trace of the black oval left there (plain golden-brown face texture); the eye on the LEFT side of the image stays exactly as it is, open, with its white highlights; the eyebrows stay. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same mouth, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ }
+]

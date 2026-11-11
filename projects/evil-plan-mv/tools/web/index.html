@@ -1,0 +1,130 @@
+<title>Evil Plan MV</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="fonts.css">
+<style>
+  /* Layout: one centred column — title line, the 16:9 film with its controls, then the song's chapters as a jump list.
+     Single dark look on purpose: it is a screening room, the film's own night-desk palette. */
+  :root {
+    --ink: #0C0B14; --ink-2: #16141F; --paper: #F3EADB; --muted: #A59DB3; --tangerine: #F07A2E; --gold: #F4CE72;
+    --line: rgba(243, 234, 219, .14);
+    --display: "Fraunces", Georgia, "Songti SC", serif; --body: "Nunito", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+    --type: "Special Elite", "Courier New", monospace;
+    color-scheme: dark;
+  }
+  html, body { background: var(--ink); color: var(--paper); }
+  body { font: 15px/1.5 var(--body); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 40px; }
+  .wrap { max-width: 1180px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 20px; }
+  h1 { margin: 0; font: italic 800 clamp(28px, 4.4vw, 44px)/1.05 var(--display); letter-spacing: -.01em; text-wrap: balance; }
+  h1 em { font-style: normal; color: var(--tangerine); }
+  .meta { font: 13px/1.4 var(--type); color: var(--muted); letter-spacing: .04em; }
+  #stage { background: #000; border-radius: 6px; overflow: hidden; box-shadow: 0 20px 60px rgba(0, 0, 0, .5); }
+  .screen { position: relative; }
+  canvas#c { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; max-width: 100%; background: #000; }
+  #load, #big { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; }
+  #load { background: var(--ink); }
+  .ready #load { display: none; }
+  .tag { font: 13px var(--type); letter-spacing: .12em; text-transform: uppercase; color: var(--ink); background: var(--paper); padding: 4px 10px; transform: rotate(-1.5deg); }
+  .track { width: min(320px, 70%); height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
+  #loadbar { height: 100%; width: 0; background: var(--tangerine); transition: width .2s; }
+  #loadcount { font: 12px var(--type); color: var(--muted); font-variant-numeric: tabular-nums; }
+  #big { display: none; background: radial-gradient(circle at 50% 50%, rgba(12, 11, 20, .15), rgba(12, 11, 20, .55)); border: 0; color: var(--paper); cursor: pointer; font: 600 15px var(--body); }
+  .ready:not(.started) #big { display: flex; }
+  #big .disc { width: 84px; height: 84px; border-radius: 50%; background: var(--tangerine); display: grid; place-items: center; box-shadow: 0 8px 30px rgba(240, 122, 46, .45); transition: transform .15s; }
+  #big:hover .disc, #big:focus-visible .disc { transform: scale(1.06); }
+  #big:focus-visible { outline: 2px solid var(--gold); outline-offset: -6px; }
+  .tri { width: 0; height: 0; border-left: 26px solid var(--ink); border-top: 16px solid transparent; border-bottom: 16px solid transparent; margin-left: 6px; }
+  .controls { display: flex; align-items: center; gap: 12px; padding: 10px 14px; background: var(--ink-2); }
+  .controls button { flex: none; width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--line); background: transparent; color: var(--paper); cursor: pointer; display: grid; place-items: center; }
+  .controls button:hover { border-color: var(--paper); }
+  .controls button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+  .controls button:disabled { opacity: .35; cursor: default; }
+  #pp .i-play { width: 0; height: 0; border-left: 11px solid currentColor; border-top: 7px solid transparent; border-bottom: 7px solid transparent; margin-left: 3px; }
+  #pp .i-pause { display: none; width: 10px; height: 12px; border-left: 3px solid currentColor; border-right: 3px solid currentColor; }
+  .playing #pp .i-play { display: none; }
+  .playing #pp .i-pause { display: block; }
+  .bar { position: relative; flex: 1; min-width: 0; height: 28px; display: flex; align-items: center; }
+  .bar .rail { position: absolute; left: 0; right: 0; height: 4px; background: var(--line); border-radius: 2px; }
+  #fill { position: absolute; left: 0; height: 4px; width: 0; background: var(--tangerine); border-radius: 2px; pointer-events: none; }
+  .tick { position: absolute; top: 9px; width: 1px; height: 10px; background: rgba(243, 234, 219, .35); pointer-events: none; }
+  #seek { position: relative; width: 100%; margin: 0; background: transparent; appearance: none; -webkit-appearance: none; height: 28px; cursor: pointer; }
+  #seek::-webkit-slider-runnable-track { height: 28px; background: transparent; }
+  #seek::-moz-range-track { height: 28px; background: transparent; }
+  #seek::-webkit-slider-thumb { -webkit-appearance: none; width: 14px; height: 14px; margin-top: 7px; border-radius: 50%; background: var(--paper); border: 2px solid var(--tangerine); }
+  #seek::-moz-range-thumb { width: 12px; height: 12px; border-radius: 50%; background: var(--paper); border: 2px solid var(--tangerine); }
+  #seek:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+  .time { flex: none; font: 13px var(--type); color: var(--muted); font-variant-numeric: tabular-nums; }
+  .time b { color: var(--paper); font-weight: 400; }
+  #fs svg { width: 16px; height: 16px; }
+  #stage:fullscreen { display: flex; flex-direction: column; border-radius: 0; }
+  #stage:fullscreen .screen { flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; }
+  #stage:fullscreen canvas#c { width: auto; height: auto; max-height: 100%; }
+  .now { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; }
+  .now .label { font: 12px var(--type); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  #nowchap { font: italic 700 20px var(--display); color: var(--gold); }
+  #chapters { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+  #chapters button { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 4px; background: transparent; color: var(--paper); text-align: left; cursor: pointer; font: inherit; }
+  #chapters button:hover { border-color: rgba(243, 234, 219, .45); }
+  #chapters button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+  #chapters button[aria-current="true"] { border-color: var(--tangerine); background: rgba(240, 122, 46, .1); }
+  #chapters .ct { font: 12px var(--type); color: var(--muted); font-variant-numeric: tabular-nums; }
+  #chapters .cn { font-weight: 700; }
+  .note { margin: 0; max-width: 65ch; color: var(--muted); font-size: 13px; }
+  kbd { font: 12px var(--type); border: 1px solid var(--line); border-radius: 3px; padding: 0 5px; color: var(--paper); }
+  @media (max-width: 520px) { .controls { gap: 8px; padding: 8px 10px; } .time { font-size: 12px; } }
+  @media (prefers-reduced-motion: reduce) { #loadbar, #big .disc { transition: none; } }
+</style>
+<div class="wrap">
+  <header>
+    <h1>Evil Plan <em>·</em> MV</h1>
+    <div class="meta">邪恶计划手账 · 6:16 · 画面实时绘制</div>
+  </header>
+  <section id="stage" aria-label="Evil Plan MV 播放器">
+    <div class="screen">
+      <canvas id="c" width="1920" height="1080"></canvas>
+      <div id="load" role="status"><span class="tag">Dossier · loading</span><div class="track"><div id="loadbar"></div></div><span id="loadcount">载入画面…</span></div>
+      <button id="big" type="button" aria-label="播放，有声音"><span class="disc"><span class="tri"></span></span>播放（有声音）</button>
+    </div>
+    <div class="controls">
+      <button id="pp" type="button" aria-label="播放"><span class="i-play"></span><span class="i-pause"></span></button>
+      <div class="bar"><div class="rail"></div><div id="fill"></div><input id="seek" type="range" min="0" max="376" step="0.01" value="1.6" aria-label="播放位置"></div>
+      <span class="time"><b id="tcur">0:01</b> / <span id="tdur">6:16</span></span>
+      <button id="fs" type="button" aria-label="全屏"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M1.5 5.5v-4h4M10.5 1.5h4v4M14.5 10.5v4h-4M5.5 14.5h-4v-4"/></svg></button>
+    </div>
+  </section>
+  <div class="now"><span class="label">正在播放</span><span id="nowchap">前奏</span></div>
+  <nav id="chapters" aria-label="段落"></nav>
+  <p class="note">这一版不是视频文件：每一帧都在你的浏览器里按歌曲时间现场画出来，所以可以随意拖动。键盘：<kbd>空格</kbd> 播放/暂停，<kbd>←</kbd><kbd>→</kbd> 前后 5 秒，<kbd>F</kbd> 全屏。电脑上看效果最好。</p>
+</div>
+<script>
+  window.CHAPTERS = [[0, '前奏'], [15.3, '主歌 1'], [43.5, '副歌 1'], [69.3, '副歌后 1'], [84.8, '主歌 2'], [112.6, '预副歌 2'], [119.1, '副歌 2'],
+    [138.9, '副歌后 2'], [154.2, '英雄'], [182.0, '是什么造就了怪物'], [203.0, '副歌 3'], [224.3, '黄昏长街'], [239.8, '桥段'],
+    [275.4, '一百年'], [292.5, '老去'], [315.6, '结局'], [338.2, '副歌 4'], [360.2, '尾声']];
+</script>
+<script src="js/data/timing.js"></script>
+<script src="js/data/mouths.js"></script>
+<script src="js/data/lipkeys.js"></script>
+<script src="js/data/webfiles.js"></script>
+<script src="js/core.js"></script>
+<script src="js/mp.js"></script>
+<script src="js/scenes_vec.js"></script>
+<script src="js/v2/paper.js"></script>
+<script src="js/v2/print.js"></script>
+<script src="js/v2/lip.js"></script>
+<script src="js/v2/kt.js"></script>
+<script src="js/v2/world.js"></script>
+<script src="js/v2/kit.js"></script>
+<script src="js/v2/sec_intro.js"></script>
+<script src="js/v2/sample.js"></script>
+<script src="js/v2/sec_post1.js"></script>
+<script src="js/v2/sec_sing.js"></script>
+<script src="js/v2/sec_verse2.js"></script>
+<script src="js/v2/sec_chorus2.js"></script>
+<script src="js/v2/sec_post2.js"></script>
+<script src="js/v2/sec_heroes.js"></script>
+<script src="js/v2/sec_made.js"></script>
+<script src="js/v2/sec_chorus3.js"></script>
+<script src="js/v2/sec_bridge.js"></script>
+<script src="js/v2/sec_old_end.js"></script>
+<script src="js/v2/sec_finale.js"></script>
+<script src="js/v2/main_web.js"></script>

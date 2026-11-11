@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a148e6-a1b2-7c80-9384-72d757233f57"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll edit the attached image’s mouth and keep the rest of the picture as close to the reference as possible."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":43771,"cached_input_tokens":24960,"cache_write_input_tokens":0,"output_tokens":295,"reasoning_output_tokens":83}}

@@ -1,0 +1,9 @@
+Downloading torchvision (1.3MiB)
+ Downloaded torchvision
+Installed 29 packages in 10.30s
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bg_yard_day (3072, 2048) 127s
+bg_roof (3072, 2048) 127s
+bg_door (3072, 2048) 128s
+crowd_faces (3072, 2048) 142s
+t_lawn (3072, 2048) 157s

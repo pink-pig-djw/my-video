@@ -1,0 +1,22 @@
+[
+ {"id": "spr_pointcam", "out": "assets/gen/spr_pointcam.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE}, leaning toward the viewer and pointing her index finger straight at the camera with strong foreshortening, the other hand on her hip, a confident playful grin, winking one eye."},
+ {"id": "spr_open", "out": "assets/gen/spr_open.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE}, arms spread wide open in triumph, chest out, head tilted slightly back, laughing with joy, her long hair and skirt swept sideways by a gust of wind."},
+ {"id": "spr_dance", "out": "assets/gen/spr_dance.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} in a dynamic idol dance pose mid-step: one knee raised, arms swinging in opposite directions, skirt and orange ruffles flaring out, hair flying, a big open-mouthed smile."},
+ {"id": "spr_peace", "out": "assets/gen/spr_peace.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} in a cute idol pose: a peace sign held right beside her winking eye, the other hand on her hip, head tilted, a cheeky smile."},
+ {"id": "spr_hips", "out": "assets/gen/spr_hips.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE}, wearing a dramatic black cape with a tangerine-orange satin lining over her outfit, standing tall with both hands on her hips, chin raised, a smug, confident, playful villain smile; the cape flares behind her."},
+ {"id": "spr_guitar", "out": "assets/gen/spr_guitar.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} rocking out on a tangerine-and-black electric guitar, leaning back mid-strum with one foot forward, eyes closed in the music, hair whipping around, rock-concert energy."},
+ {"id": "spr_back", "out": "assets/gen/spr_back.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} seen from directly behind, standing still and looking up at the sky, her very long wavy orange hair flowing down her back, the white daisy hair ornament and ribbon visible, hands clasped behind her back."},
+ {"id": "spr_heart", "out": "assets/gen/spr_heart.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} making a heart shape with both hands in front of her chest, a warm soft smile, slightly blushing, head tilted a little."},
+ {"id": "spr_float", "out": "assets/gen/spr_float.png", "aspect": "landscape", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} lounging in mid-air on her side as if lying in an invisible hammock, propped up on one elbow, legs crossed at the ankles, a relaxed vacation smile, small round sunglasses pushed up on top of her head."},
+ {"id": "spr_run", "out": "assets/gen/spr_run.png", "aspect": "portrait", "style": "sprite", "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE} running happily toward the right side of the frame in mid-stride, one arm reaching forward, hair and skirt streaming behind her, joyful expression."}
+]

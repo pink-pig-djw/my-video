@@ -1,0 +1,41 @@
+ 0 S  Sunflower                                    words@ 13.53
+ 1 S  One, two, three                              words@ 23.13 23.56 24.12
+ 2 S  ooh                                          words@ 24.94
+ 3 S  There's a zombie on your lawn                words@ 24.98 25.36 25.47 26.49 26.69 27.28
+ 4 S  There's a zombie on your lawn                words@ 29.25 29.62 29.82 31.05 31.27 31.80
+ 6 S  There's a zombie on your lawn                words@ 33.83 34.22 34.38 35.62 35.82 36.35
+ 7 S  We don't want zombies on the lawn            words@ 38.08 38.36 38.68 38.96 40.21 40.41 40.90
+ 9 S  I know your type, tall, dark, and dead       words@ 42.80 43.01 43.27 43.59 44.09 44.57 45.08 45.27
+10 S  You want to bite all the petals off of my he words@ 45.72 45.89 46.17 46.28 46.70 46.84 46.97 47.37 47.65 47.87 48.15
+11 S  And then eat the brains of the one who plant words@ 48.82 48.99 49.23 49.41 49.69 50.09 50.26 50.47 50.73 50.85 51.27 51.55
+12 S  I'm just a sunflower                         words@ 53.08 53.28 53.62 53.84
+13 S  But see me power an entire infantry          words@ 54.72 54.99 55.26 55.55 55.91 56.02 56.67
+14 S  You like the taste of brains, we don't like  words@ 57.55 57.86 58.11 58.41 58.83 58.96 59.30 59.53 59.85 60.10
+15 Z  I used to play football                      words@ 63.42 63.67 63.94 64.18 64.64
+16 S~ (play football)                              words@ 65.87 66.38
+17 Z  Road cones protect my head                   words@ 67.90 68.17 68.53 69.17 69.55
+18 S~ (cone on his head)                           words@ 69.90 70.28 70.43 70.92
+19 Z  I have a screen-door shield                  words@ 72.48 72.69 73.00 73.16 74.06
+20 S~ (screen-door shield)                         words@ 75.40 76.02
+21 Z  We are the undead!                           words@ 77.52 77.90 78.12 78.46
+22 S  There's a zombie on your lawn                words@ 79.70 79.92 80.11 81.34 81.55 81.72
+23 S  There's a zombie on your lawn                words@ 84.10 84.50 84.67 85.92 86.10 86.67
+25 S  There's a zombie on your lawn                words@ 88.67 89.06 89.23 90.50 90.69 91.22
+26 S  We don't want zombies on the lawn            words@ 92.94 93.25 93.54 93.81 95.06 95.52 95.77
+28 S  Maybe it's time to reevaluate                words@ 97.57 97.98 98.41 98.86 99.05
+29 S  I know you have a lot of food on your plate  words@ 100.60 100.69 100.98 101.15 101.47 101.56 101.75 101.83 102.30 102.55 102.94
+30 S  Brains are quite rich in cholesterol         words@ 103.54 103.92 104.13 104.44 104.79 104.96
+31 S  You're dead, so it doesn't matter            words@ 107.83 108.14 108.41 108.80 109.16 109.60
+32 S  Instead, we'll use this solar power          words@ 110.19 110.71 111.07 111.31 111.45 111.86
+33 S  To make a lawn defense at any hour           words@ 112.44 112.74 113.10 113.25 113.59 114.20 114.64 115.32
+34 Z  I like your tricycle                         words@ 118.20 118.41 118.70 118.95
+35 S~ (tricycle)                                   words@ 120.73
+36 Z  There's butter on my head                    words@ 122.60 122.99 123.69 124.07 124.54
+37 S~ (on his head)                                words@ 125.69 125.75 125.95
+38 Z  I'm gonna eat your brains                    words@ 127.30 127.55 128.13 128.40 128.58
+39 S~ (no, no, no, no)                             words@ 128.97 129.33 129.83 130.15
+40 Z  We are the undead!                           words@ 132.37 132.76 132.97 133.33
+41 S  There's a zombie on your lawn                words@ 134.69 135.07 135.24 136.18 136.42 136.99
+42 S  There's a zombie on your lawn                words@ 138.96 139.37 139.53 140.78 140.97 141.53
+44 S  There's a zombie on your lawn                words@ 143.54 143.93 144.09 145.35 145.54 146.08
+45 S  We don't want zombies on the lawn            words@ 147.80 147.95 148.37 148.68 149.92 150.11 150.63

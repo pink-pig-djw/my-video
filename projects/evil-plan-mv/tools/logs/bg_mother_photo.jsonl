@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a145d7-7e14-71a3-8b48-36f460d6f209"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the portrait now."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":42513,"cached_input_tokens":38912,"cache_write_input_tokens":0,"output_tokens":301,"reasoning_output_tokens":36}}

@@ -1,0 +1,50 @@
+Loading weights:   0%|          | 0/212 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 27/212 [00:00<00:00, 243.26it/s]Loading weights:  25%|██▍       | 52/212 [00:00<00:00, 225.29it/s]Loading weights: 100%|██████████| 212/212 [00:00<00:00, 705.63it/s]
+[transformers] [1mWav2Vec2ForCTC LOAD REPORT[0m from: facebook/wav2vec2-base-960h
+Key                        | Status  | 
+---------------------------+---------+-
+wav2vec2.masked_spec_embed | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+0 -3.257 Sunflower@13.53
+1 -3.352 One,@23.23 two,@23.57 three@24.13
+2 -4.594 ooh@24.92
+3 -2.516 There's@24.98 a@25.4 zombie@25.52 on@26.54 your@26.68 lawn@27.26
+4 -3.053 There's@29.25 a@30.13 zombie@30.39 on@31.07 your@31.27 lawn@31.79
+6 -1.536 There's@33.83 a@34.25 zombie@34.39 on@35.67 your@35.81 lawn@36.37
+7 -2.575 We@38.07 don't@38.23 want@38.67 zombies@38.97 on@40.27 the@40.41 lawn@40.89
+9 -1.247 I@42.84 know@42.98 your@43.26 type,@43.6 tall,@44.08 dark,@44.56 and@45.1 dead@45.28
+10 -1.084 You@45.72 want@45.88 to@46.14 bite@46.28 all@46.7 the@46.84 petals@46.96 off@47.4 of@47.66 my@47.88 head@48.16
+11 -1.293 And@48.84 then@49.0 eat@49.24 the@49.4 brains@49.7 of@50.12 the@50.26 one@50.56 who@50.72 planted@50.86 me@51.26 here@51.56
+12 -2.598 I'm@53.09 just@53.29 a@53.77 sunflower@53.83
+13 -1.198 But@54.71 see@54.97 me@55.25 power@55.55 an@55.93 entire@56.03 infantry@56.69
+14 -1.561 You@57.54 like@57.86 the@58.1 taste@58.42 of@58.84 brains,@58.96 we@59.3 don't@59.52 like@59.84 zombies@60.1
+15 -3.145 I@63.47 used@63.73 to@63.93 play@64.23 football@64.65
+16 -5.451 play@65.84 football@66.38
+17 -1.683 Road@67.9 cones@68.16 protect@68.54 my@69.16 head@69.56
+18 -3.719 cone@69.8 on@70.3 his@70.46 head@70.94
+19 -2.316 I@72.55 have@72.73 a@73.03 screen-door@73.17 shield@74.05
+20 -5.386 screen-door@75.47 shield@76.03
+21 -1.861 We@77.51 are@77.95 the@78.11 undead!@78.65
+22 -2.002 There's@79.685 a@79.925 zombie@80.105 on@81.365 your@81.545 lawn@82.125
+23 -1.762 There's@84.103 a@84.523 zombie@84.663 on@85.963 your@86.083 lawn@86.663
+25 -1.46 There's@88.665 a@89.085 zombie@89.245 on@90.565 your@90.685 lawn@91.225
+26 -3.192 We@91.8 don't@93.08 want@93.54 zombies@93.82 on@95.12 the@95.52 lawn@95.78
+28 -2.303 Maybe@97.565 it's@97.985 time@98.465 to@98.845 reevaluate@99.065
+29 -1.063 I@100.24 know@100.7 you@100.98 have@101.16 a@101.48 lot@101.56 of@101.76 food@101.84 on@102.34 your@102.54 plate@102.96
+30 -0.855 Brains@103.54 are@103.94 quite@104.14 rich@104.44 in@104.82 cholesterol@104.94
+31 -0.897 You're@107.81 dead,@108.13 so@108.41 it@108.83 doesn't@109.15 matter@109.59
+32 -1.339 Instead,@110.2 we'll@110.7 use@111.08 this@111.32 solar@111.44 power@111.86
+33 -1.224 To@112.44 make@112.74 a@113.14 lawn@113.26 defense@113.56 at@114.22 any@114.68 hour@115.28
+34 -1.92 I@118.26 like@118.42 your@118.68 tricycle@118.96
+35 -2.493 tricycle@120.74
+36 -1.236 There's@122.59 butter@122.97 on@123.81 my@124.07 head@124.55
+37 -4.666 on@125.71 his@125.81 head@125.95
+38 -3.321 I'm@127.32 gonna@127.54 eat@127.92 your@128.1 brains@128.58
+39 -2.91 no,@128.96 no,@129.34 no,@130.18 no@130.42
+40 -1.707 We@132.36 are@132.82 the@132.96 undead!@133.5
+41 -2.897 There's@134.69 a@135.23 zombie@135.29 on@136.17 your@136.41 lawn@136.99
+42 -2.001 There's@138.96 a@139.4 zombie@139.52 on@140.82 your@140.96 lawn@141.52
+44 -1.365 There's@143.54 a@143.96 zombie@144.1 on@145.4 your@145.52 lawn@146.08
+45 -2.494 We@147.78 don't@147.94 want@148.36 zombies@148.68 on@149.98 the@150.12 lawn@150.62
+done render/lipcheck/fa.json

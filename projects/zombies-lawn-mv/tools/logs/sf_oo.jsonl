@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a17c92-8759-7143-a411-5ed4737bd109"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll edit the attached image, changing only the mouth."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":36799,"cached_input_tokens":32256,"cache_write_input_tokens":0,"output_tokens":294,"reasoning_output_tokens":97}}

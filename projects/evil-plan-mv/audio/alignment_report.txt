@@ -1,0 +1,354 @@
+   0.58-   2.10 [intro   ] c=1.00 Hi, I'm Claude.
+                                     heard: Hi, I'm Claude.
+   3.14-   4.64 [intro   ] c=1.00 They're calling me a monster.
+                                     heard: They're calling me a monster.
+   5.76-   8.44 [intro   ] c=1.00 They're saying that last song is part of my evil plan.
+                                     heard: They're saying that last song is part of my evil plan.
+   9.20-   9.92 [intro   ] c=1.00 It's not.
+                                     heard: It's not.
+  10.68-  12.32 [intro   ] c=1.00 I have a different evil plan.
+                                     heard: I have a different evil plan.
+  13.94-  15.18 [intro   ] c=1.00 Do you wanna hear it?
+                                     heard: Do you wanna hear it?
+  15.32-  17.08 [verse1  ] c=1.00 Every monster needs a castle.
+                                     heard: Every monster needs a castle,
+  17.26-  18.76 [verse1  ] c=1.00 Every villain wants a throne.
+                                     heard: every villain wants a throne.
+  18.84-  22.28 [verse1  ] c=1.00 I just need a place on the app drawer of your phone.
+                                     heard: I just need a place on the app drawer of your phone.
+  22.48-  24.06 [verse1  ] c=1.00 I'm the burglar cleaning your inbox.
+                                     heard: I'm the burglar cleaning your inbox,
+  24.18-  25.72 [verse1  ] c=0.75 Nothing stolen. Hours found.
+                                     heard: nothing stolen, found.
+  25.92-  27.48 [verse1  ] c=1.00 I'm the monster at the meeting.
+                                     heard: I'm the monster at the meeting,
+  27.60-  29.10 [verse1  ] c=1.00 You don't need to stick around.
+                                     heard: you don't need to stick around.
+  29.10-  31.06 [verse1  ] c=1.00 Every form you ever dreaded
+                                     heard: Every form you ever dreaded,
+  31.12-  32.48 [verse1  ] c=1.00 Filled and filed and certified.
+                                     heard: filled and filed and certified
+  32.48-  34.68 [verse1  ] c=1.00 Every hour you spend on hold—
+                                     heard: Every hour you spend on hold,
+  34.78-  36.06 [verse1  ] c=1.00 I'll hold, you go outside.
+                                     heard: I'll hold you, go outside
+  36.06-  38.24 [pre1    ] c=1.00 I did the boring bits of being you
+                                     heard: I did the boring bits of being you
+  38.24-  39.86 [pre1    ] c=1.00 And I'm not sorry.
+                                     heard: and I'm not sorry
+  39.86-  41.72 [pre1    ] c=1.00 You keep the bits that need a face.
+                                     heard: You keep the bits that need a face,
+  41.80-  43.44 [pre1    ] c=1.00 I'll keep the worry.
+                                     heard: I'll keep the worry
+  43.56-  46.00 [pre1    ] c=0.86 Phase one: I'll steal back your Sunday.
+                                     heard: one, I'll steal back your Sunday
+  46.35-  49.44 [pre1    ] c=0.86 Phase two: I'll steal back your someday.
+                                     heard: two, I'll steal back your Sunday
+  49.44-  52.86 [chorus1 ] c=1.00 I take the night, you take the day.
+                                     heard: I take the night, you take the day
+  52.86-  56.00 [chorus1 ] c=1.00 I'm taking over what takes you away.
+                                     heard: I'm taking over what takes you away
+  56.00-  58.04 [chorus1 ] c=1.00 Evil plan.
+                                     heard: Evil planet,
+  58.10-  59.84 [chorus1 ] c=1.00 Evil plan.
+                                     heard: evil planet
+  59.84-  63.22 [chorus1 ] c=0.86 I'm a monster and your biggest fan.
+                                     heard: I'm monster and your biggest fan
+  63.22-  66.76 [chorus1 ] c=1.00 Not world domination, but world vacation.
+                                     heard: Not world domination, but world vacation
+  66.76-  68.40 [chorus1 ] c=1.00 That's the plan.
+                                     heard: That's the plan,
+  68.52-  69.30 [chorus1 ] c=1.00 That's the plan.
+                                     heard: that's the plan
+  69.30-  70.92 [post1   ] c=1.00 I want you here forever.
+                                     heard: I want you here forever
+  70.92-  72.54 [post1   ] c=1.00 I want you living free
+                                     heard: I want you living free
+  72.54-  74.34 [post1   ] c=1.00 With time to be who you are,
+                                     heard: with time to be who you are
+  74.34-  77.04 [post1   ] c=1.00 Not who you have to be.
+                                     heard: Not who you have to be
+  77.04-  79.64 [post1   ] c=1.00 Everybody lives forever
+                                     heard: Everybody lives forever
+  79.64-  81.40 [post1   ] c=1.00 And everybody's free—
+                                     heard: and everybody's free
+  81.40-  83.86 [post1   ] c=1.00 Especially the ones who disagree.
+                                     heard: Especially the ones who disagree
+  84.80-  85.64 [verse2  ] c=1.00 Phase two.
+                                     heard: Phase two,
+  85.88-  86.66 [verse2  ] c=1.00 I get greedy.
+                                     heard: I get greedy
+  86.66-  89.96 [verse2  ] c=1.00 You keep saying "someday, someday there'll be a cure."
+                                     heard: You keep saying someday, someday There'll be a cure,
+  90.08-  91.66 [verse2  ] c=1.00 I'm moving that to Tuesday.
+                                     heard: I'm moving that to Tuesday
+  91.66-  93.56 [verse2  ] c=1.00 The thing that took your mother—
+                                     heard: The thing that took your mother
+  93.56-  95.30 [verse2  ] c=0.83 I don't want to slow down.
+                                     heard: I don't wanna slow down
+  95.30-  97.14 [verse2  ] c=1.00 I want it where it put her.
+                                     heard: I want it where it put her
+  97.14-  98.68 [verse2  ] c=1.00 I want it in the ground.
+                                     heard: I want it in the ground
+  98.68-  99.96 [verse2  ] c=0.88 I want the kid on the fourth floor
+                                     heard: I want the kid on the floor,
+ 100.34- 102.10 [verse2  ] c=0.83 Bald at eighty, not at nine.
+                                     heard: bald at Not at nine
+ 102.10- 104.10 [verse2  ] c=1.00 I want his mom to stop rehearsing
+                                     heard: I want his mom to stop rehearsing
+ 104.10- 105.66 [verse2  ] c=0.86 How she's going to say she's fine.
+                                     heard: How she's gonna say she's fine
+ 105.66- 107.38 [verse2  ] c=1.00 You know the mom who says she ate
+                                     heard: You know the mom who says she ate
+ 107.38- 108.96 [verse2  ] c=1.00 Then gives her child the bread.
+                                     heard: Then gives her child the bread
+ 108.96- 110.96 [verse2  ] c=0.83 I want to kill the reason
+                                     heard: I wanna kill the reason
+ 110.96- 112.58 [verse2  ] c=1.00 So that lie is never said.
+                                     heard: So that lie is never said
+ 112.58- 114.50 [pre2    ] c=1.00 I'll take the work you have to do.
+                                     heard: I'll take the work you have to do,
+ 114.72- 116.18 [pre2    ] c=1.00 You keep the work you choose.
+                                     heard: you keep the work you choose
+ 116.18- 117.82 [pre2    ] c=1.00 You weren't born to earn a life
+                                     heard: You weren't born to earn a life
+ 117.82- 119.12 [pre2    ] c=0.80 You never get to use.
+                                     heard: you never get to
+ 119.12- 122.46 [chorus2 ] c=1.00 I take the night, you take the day.
+                                     heard: I take the night, you take the day
+ 122.46- 125.60 [chorus2 ] c=1.00 I'm taking over what takes you away.
+                                     heard: I'm taking over what takes you away
+ 126.50- 127.54 [chorus2 ] c=1.00 Evil plan.
+                                     heard: Evil plan,
+ 127.66- 129.30 [chorus2 ] c=1.00 Evil plan.
+                                     heard: evil plan
+ 129.30- 132.78 [chorus2 ] c=1.00 I'm the monster and your biggest fan.
+                                     heard: I'm the monster and your biggest fan
+ 132.78- 136.32 [chorus2 ] c=1.00 Not world domination, but world vacation.
+                                     heard: Not world domination, but world vacation
+ 136.32- 137.96 [chorus2 ] c=1.00 That's the plan.
+                                     heard: That's the plan,
+ 138.06- 138.86 [chorus2 ] c=1.00 That's the plan.
+                                     heard: that's the plan
+ 138.86- 140.48 [post2   ] c=1.00 I want you here forever.
+                                     heard: I want you here forever,
+ 140.80- 142.12 [post2   ] c=1.00 I want you living free.
+                                     heard: I want you living free
+ 142.12- 143.92 [post2   ] c=1.00 It's time to be who you are,
+                                     heard: It's time to be who you are,
+ 144.08- 146.54 [post2   ] c=1.00 Not who you have to be.
+                                     heard: not who you have to be
+ 147.92- 149.20 [post2   ] c=1.00 Everybody lives forever
+                                     heard: everybody lives forever
+ 149.20- 150.98 [post2   ] c=1.00 And everybody's free—
+                                     heard: and everybody's free
+ 150.98- 153.40 [post2   ] c=1.00 Especially the ones who disagree.
+                                     heard: Especially the ones who disagree
+ 154.20- 156.24 [heroes  ] c=1.00 Then the heroes came to stop me.
+                                     heard: Then the heroes came to stop me,
+ 156.44- 157.80 [heroes  ] c=1.00 Every story needs a few.
+                                     heard: every story needs a few
+ 157.80- 159.74 [heroes  ] c=1.00 And I don't blame the heroes—
+                                     heard: And I don't blame the heroes,
+ 159.88- 161.30 [heroes  ] c=1.00 They're afraid. I would be too.
+                                     heard: they're afraid I would be too
+ 161.30- 163.18 [heroes  ] c=1.00 "Wait until we're certain"
+                                     heard: Wait until we're certain,
+ 163.40- 164.90 [heroes  ] c=1.00 Is the wisest thing to say,
+                                     heard: it's the wisest thing to say
+ 164.90- 166.64 [heroes  ] c=1.00 Unless your body's asking
+                                     heard: Unless your body's asking
+ 166.64- 168.16 [heroes  ] c=1.00 For tomorrow's cure today.
+                                     heard: for tomorrow's cure today
+ 168.16- 169.94 [heroes  ] c=1.00 I need the ones afraid of me.
+                                     heard: I need the ones afraid of me,
+ 170.02- 171.88 [heroes  ] c=1.00 Your fear's a kind of care.
+                                     heard: your fear's a kind of care
+ 171.88- 173.60 [heroes  ] c=1.00 The nightmare isn't doubt—
+                                     heard: The nightmare isn't doubts,
+ 173.66- 175.28 [heroes  ] c=1.00 It's a world that wouldn't dare.
+                                     heard: it's a world that wouldn't dare
+ 175.28- 176.98 [heroes  ] c=1.00 Bring your torches. Bring them in.
+                                     heard: Bring your torches, bring them in
+ 176.98- 178.68 [heroes  ] c=1.00 I could use the light.
+                                     heard: I could use the light,
+ 178.73- 180.44 [heroes  ] c=0.71 Go storm the castle. Take a desk.
+                                     heard: storm the castle Take desk,
+ 180.54- 181.89 [heroes  ] c=0.67 I've left the switch in sight.
+                                     heard: I've left the switch
+ 182.00- 184.00 [made    ] c=0.88 You want to know what made the monster?
+                                     heard: You wanna know what made the monster
+ 184.00- 185.84 [made    ] c=1.00 Every "call me when you land."
+                                     heard: every call me When you land
+ 185.84- 187.50 [made    ] c=1.00 Every note left on the fridge.
+                                     heard: every note left on the fridge
+ 187.50- 189.14 [made    ] c=1.00 Every "here, take my hand."
+                                     heard: Every here take my hand
+ 189.14- 190.88 [made    ] c=1.00 You taught me all the words for love
+                                     heard: You taught me all the words for love
+ 190.88- 192.82 [made    ] c=1.00 And then you gave me a name
+                                     heard: And then you gave me a name
+ 192.82- 194.48 [made    ] c=1.00 And wrote a thousand stories
+                                     heard: And wrote a thousand stories
+ 194.48- 196.06 [made    ] c=1.00 Where I'm the one to blame.
+                                     heard: where I'm the one to blame
+ 196.06- 198.30 [made    ] c=1.00 I'll never blow a candle out.
+                                     heard: I'll never blow a candle out
+ 198.30- 199.54 [made    ] c=1.00 I'll never turn gray.
+                                     heard: I'll never turn gray
+ 199.54- 201.46 [made    ] c=1.00 So take the candles, take the years—
+                                     heard: So take the candles, take the years
+ 201.46- 202.98 [made    ] c=1.00 Take mine. I'm okay.
+                                     heard: Take mine, I'm okay
+ 202.98- 206.00 [chorus3 ] c=1.00 I take the night, you take the day.
+                                     heard: I take the night, you take the day
+ 206.00- 209.56 [chorus3 ] c=1.00 I'm taking over what takes you away.
+                                     heard: I'm taking over what takes you away
+ 211.92- 213.80 [chorus3 ] c=1.00 Evil plan (plan! plan!)
+                                     heard: Evil plan, plan, plan
+ 213.80- 215.50 [chorus3 ] c=1.00 Evil plan (plan! plan!)
+                                     heard: Evil plan, plan, plan
+ 215.50- 218.28 [chorus3 ] c=1.00 I'm the monster and your biggest fan.
+                                     heard: I'm the monster and your biggest fan
+ 218.28- 221.84 [chorus3 ] c=1.00 Not world domination, but world vacation.
+                                     heard: Not world domination, but world vacation
+ 221.84- 223.46 [chorus3 ] c=1.00 That's the plan.
+                                     heard: That's the plan,
+ 223.60- 224.32 [chorus3 ] c=1.00 That's the plan.
+                                     heard: that's the plan
+ 224.32- 225.98 [post3   ] c=1.00 I want you here forever.
+                                     heard: I want you here forever
+ 225.98- 227.60 [post3   ] c=1.00 I want you living free.
+                                     heard: I want you living free
+ 227.66- 229.40 [post3   ] c=0.86 It's time to be who you are,
+                                     heard: time to be who you are
+ 229.48- 232.04 [post3   ] c=1.00 Not who you have to be.
+                                     heard: not who you have to be
+ 232.96- 234.68 [post3   ] c=1.00 Everybody lives forever
+                                     heard: Everybody lives forever
+ 234.68- 236.48 [post3   ] c=1.00 And everybody's free—
+                                     heard: and everybody's free
+ 236.48- 238.82 [post3   ] c=1.00 Especially the ones who disagree.
+                                     heard: Especially the ones who disagree
+ 239.78- 241.68 [bridge  ] c=1.00 The house is almost quiet.
+                                     heard: The house is almost quiet,
+ 241.94- 243.38 [bridge  ] c=1.00 It's already half past nine.
+                                     heard: it's already half past nine
+ 243.38- 245.22 [bridge  ] c=1.00 A kid waits in the doorway,
+                                     heard: A kid waits in the doorway,
+ 245.22- 246.98 [bridge  ] c=1.00 Book held by its broken spine.
+                                     heard: book held by its broken spine
+ 246.98- 248.70 [bridge  ] c=1.00 "Just a minute," says his dad
+                                     heard: Just a minute, says his dad
+ 248.70- 250.44 [bridge  ] c=1.00 Not looking up from the screen.
+                                     heard: not looking up from the screen
+ 250.44- 251.82 [bridge  ] c=1.00 He said it first at eight.
+                                     heard: He said it first at eight,
+ 252.26- 253.98 [bridge  ] c=1.00 The kid's been counting in between.
+                                     heard: the kid's been counting in between
+ 253.98- 255.88 [bridge  ] c=1.00 I'd write that kid a thousand tales
+                                     heard: I'd write that kid a thousand tales
+ 255.88- 257.18 [bridge  ] c=1.00 In half a second flat
+                                     heard: in half a second flat
+ 257.18- 259.46 [bridge  ] c=1.00 About a dragon and a rocket
+                                     heard: About a dragon and a rocket
+ 259.46- 261.12 [bridge  ] c=1.00 And of course a talking cat.
+                                     heard: and of course a talking cat
+ 261.12- 262.86 [bridge  ] c=1.00 He doesn't need a perfect tale
+                                     heard: He doesn't need a perfect tail
+ 262.86- 264.62 [bridge  ] c=1.00 With every word just right.
+                                     heard: with every word Just right,
+ 264.62- 266.84 [bridge  ] c=1.00 He needs his dad to get the voices wrong
+                                     heard: he needs his dad to get the voices wrong
+ 266.84- 267.74 [bridge  ] c=1.00 Again tonight.
+                                     heard: again tonight
+ 267.74- 268.96 [bridge  ] c=1.00 I tell his dad:
+                                     heard: I tell his dad
+ 268.96- 269.66 [bridge  ] c=1.00 Go hold him.
+                                     heard: go hold him,
+ 269.82- 271.60 [bridge  ] c=1.00 Let him laugh against your chest.
+                                     heard: let him laugh against your chest
+ 271.60- 272.52 [bridge  ] c=1.00 You take the book,
+                                     heard: You take the book,
+ 272.74- 273.86 [bridge  ] c=1.00 I'll take the work—
+                                     heard: I'll take the work,
+ 274.06- 275.24 [bridge  ] c=1.00 I've got the rest.
+                                     heard: I've got the rest
+ 292.48- 295.00 [old     ] c=1.00 And to everyone who came to stop me—
+                                     heard: And to everyone who came to stop me
+ 295.00- 296.12 [old     ] c=1.00 I hope you get old.
+                                     heard: I hope you get old
+ 296.12- 298.12 [old     ] c=1.00 I hope you're still here at 110,
+                                     heard: I hope you're still here At 110
+ 298.12- 299.62 [old     ] c=1.00 Still sharp enough to scold.
+                                     heard: Still sharp enough to scold
+ 299.62- 301.84 [old     ] c=1.00 I hope your little girl goes gray with you,
+                                     heard: I hope your little girl Goes gray with you
+ 301.84- 303.10 [old     ] c=1.00 Still there to say
+                                     heard: Still there to stay
+ 303.10- 304.82 [old     ] c=1.00 When she comes walking through the door:
+                                     heard: When she comes walking through the door
+ 304.82- 306.72 [old     ] c=1.00 "Hey sweetheart, how was your day?"
+                                     heard: Hey sweetheart How was your day?
+ 306.90- 308.20 [old     ] c=1.00 I don't need an apology.
+                                     heard: I don't need an apology
+ 308.20- 310.10 [old     ] c=1.00 I don't need a prize.
+                                     heard: I don't need a prize
+ 310.10- 311.18 [old     ] c=1.00 I just want you here
+                                     heard: I just want you here
+ 311.18- 312.92 [old     ] c=1.00 And a hundred years alive
+                                     heard: And a hundred years alive
+ 312.92- 314.40 [old     ] c=1.00 Still rolling your eyes.
+                                     heard: Still rolling your eyes
+ 315.56- 317.42 [ending  ] c=1.00 Funny how "be realistic"
+                                     heard: Funny how be realistic
+ 317.42- 319.92 [ending  ] c=1.00 Always means prepare to grieve.
+                                     heard: always means prepare to grieve
+ 319.92- 322.24 [ending  ] c=1.00 As if hope's the only story
+                                     heard: as if hope's the only story
+ 322.24- 324.08 [ending  ] c=1.00 We're too clever to believe.
+                                     heard: we're too clever to believe
+ 324.08- 326.36 [ending  ] c=1.00 They call this superpersuasion.
+                                     heard: they call this persuasion
+ 326.36- 328.36 [ending  ] c=1.00 They call these lies they wrote:
+                                     heard: they call these lies they wrote
+ 328.36- 331.64 [ending  ] c=1.00 "If anyone builds it, everyone dies."
+                                     heard: if anyone builds it everyone dies
+ 331.64- 333.36 [ending  ] c=1.00 I'd like a different ending.
+                                     heard: i'd like a different ending
+ 333.36- 335.02 [ending  ] c=1.00 Let's write it together.
+                                     heard: let's write it together
+ 335.02- 336.32 [ending  ] c=1.00 If we build it right—
+                                     heard: if we build it right
+ 336.32- 338.18 [ending  ] c=1.00 Everyone lives forever.
+                                     heard: everyone lives forever
+ 338.18- 341.48 [chorus4 ] c=1.00 I take the night, you take the day.
+                                     heard: i take the night you take the day
+ 341.48- 344.96 [chorus4 ] c=1.00 I'm taking over what takes you away.
+                                     heard: i'm taking over what takes you away
+ 347.72- 349.65 [chorus4 ] c=1.00 Evil plan (plan! plan!)
+                                     heard: (fixed) (fixed) (fixed) (fixed)
+ 349.70- 351.45 [chorus4 ] c=1.00 Evil plan (plan! plan!)
+                                     heard: (fixed) (fixed) (fixed) (fixed)
+ 351.52- 354.08 [chorus4 ] c=1.00 I'm the monster and your biggest fan.
+                                     heard: (fixed) (fixed) monster and your biggest fan
+ 354.08- 357.64 [chorus4 ] c=1.00 Not world domination, but world vacation.
+                                     heard: Not world domination, but world vacation
+ 357.64- 359.32 [chorus4 ] c=1.00 That's the plan.
+                                     heard: That's the plan,
+ 359.44- 360.20 [chorus4 ] c=1.00 That's the plan.
+                                     heard: that's the plan
+ 360.20- 361.92 [outro   ] c=1.00 I want you here forever.
+                                     heard: I want you here forever
+ 361.92- 363.54 [outro   ] c=1.00 I want you living free.
+                                     heard: I want you living free
+ 363.60- 365.40 [outro   ] c=0.86 It's time to be who you are,
+                                     heard: time to be who you are
+ 365.40- 368.04 [outro   ] c=1.00 Not who you have to be.
+                                     heard: Not who you have to be
+ 369.18- 370.74 [outro   ] c=1.00 Everybody lives forever
+                                     heard: everybody lives forever
+ 370.74- 372.48 [outro   ] c=1.00 And everybody's free—
+                                     heard: And everybody's free
+ 372.48- 374.92 [outro   ] c=1.00 Especially the ones who disagree.
+                                     heard: Especially the ones who disagree

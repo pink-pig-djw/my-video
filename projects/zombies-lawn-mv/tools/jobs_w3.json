@@ -1,0 +1,26 @@
+[
+ {
+  "id": "zdance_c",
+  "out": "assets/gen/zdance_c.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/frames/zf_idle.png", "../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "ANIMATION SPRITE SHEET in the same 4 columns x 2 rows grid layout and cell size as the first attached sheet: 8 frames of the SAME basic zombie (brown torn suit jacket, white shirt, red necktie, blue ragged trousers, brown shoes, grey-green skin, big round eyes) doing a calm, lazy, rhythmic zombie GROOVE, head-bobbing to music, seen from the same three-quarter side view facing LEFT. Same size, same ground line and same horizontal placement in every cell; the whole zombie inside its cell.\nIMPORTANT: this is a SUBTLE dance. In EVERY frame the feet stay planted side by side on the ground, the body stays upright (only slightly hunched), and both forearms are held loosely in front of the belly at waist height (elbows bent, hands hanging limp, like a zombie resting its arms). Only the head, the shoulders and the knees move a little. The frames loop:\n1) upright, head tilted toward his LEFT shoulder;\n2) knees slightly bent in a small bounce, head nodding forward, hands bobbing down a little;\n3) upright, head straight, shoulders level;\n4) knees slightly bent in a small bounce, head nodding forward;\n5) upright, head tilted toward his RIGHT shoulder, mouth open with the tongue sticking out a little;\n6) knees slightly bent in a small bounce, head nodding forward;\n7) upright, head straight, shoulders shrugged up a little;\n8) knees slightly bent in a small bounce, head nodding forward.\nNo raised arms, no reaching arms, no leg kicks, no hopping, no motion lines, no text, no shadows."
+ },
+ {
+  "id": "zduck2",
+  "out": "assets/gen/zduck2.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["assets/gen/zduck.png", "../pvz-remake/assets/gen/frames/zf_idle.png"],
+  "prompt": "ANIMATION SPRITE SHEET in the same 4 columns x 2 rows grid layout and cell size as the first attached sheet: 8 frames of the SAME zombie floating calmly in the SAME yellow rubber-duck swim ring (duck head and orange beak at the front), three-quarter side view facing LEFT, legs and hips hidden inside the ring, nothing drawn below the ring, no water. A SUBTLE, lazy bob to music: in every frame both forearms rest on top of the ring in front of him, hands hanging limp over it; only his head sways gently and the whole ring rises and sinks a little. The frames loop: 1) ring a little higher, head tilted to his left; 2) level, head nodding forward; 3) ring a little lower, head straight; 4) level, head nodding forward; 5) ring a little higher, head tilted to his right, tongue out a little; 6) level, head nodding forward; 7) ring a little lower, head straight; 8) level, head nodding forward. Same size and ring height in every cell (except the small rise and sink). No raised arms, no splashes, no text."
+ },
+ {
+  "id": "melon",
+  "out": "assets/gen/melon.png",
+  "aspect": "landscape",
+  "style": "parts",
+  "refs": ["../pvz-remake/assets/gen/cherry.png"],
+  "prompt": "PARTS SHEET in the same cartoon game style as the attached reference: (1) on the far left, a whole WATERMELON as lobbed by a melon catapult plant: a big glossy oval watermelon with dark green stripes on light green rind and a white highlight; (2) to (7) six separate pieces of a watermelon that has just splattered on impact: broken chunks of green rind with bright red juicy flesh and black seeds, wedge-shaped and irregular, of different sizes, with a few red juice droplets drawn as part of each piece. Every piece drawn separately with wide empty gaps between them, two rows."
+ }
+]

@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a145a8-ceb7-7d72-945a-9216a1b6ac6b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the single image now."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":34120,"cached_input_tokens":30976,"cache_write_input_tokens":0,"output_tokens":306,"reasoning_output_tokens":32}}

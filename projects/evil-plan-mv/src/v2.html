@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evil Plan · Dossier</title>
+<link rel="stylesheet" href="fonts.css">
+<style>
+  html, body { margin: 0; height: 100%; background: #07070c; color: #eee; font: 13px/1.4 "Nunito", "Segoe UI", sans-serif; }
+  #wrap { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+  canvas#c { width: min(100vw, calc(100vh * 16 / 9)); height: auto; aspect-ratio: 16 / 9; background: #000; display: block; }
+  #ui { position: fixed; left: 0; right: 0; bottom: 0; padding: 6px 12px; background: rgba(0,0,0,.6); display: flex; gap: 10px; align-items: center; }
+  #ui input[type=range] { flex: 1; }
+  body.render #ui { display: none; }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="c" width="1920" height="1080"></canvas></div>
+<div id="ui"><button id="pp">▶</button><input id="seek" type="range" min="0" max="70" step="0.01" value="15"><span id="tc">0.00</span></div>
+<script src="data/timing.js"></script>
+<script src="core.js"></script>
+<script src="mp.js"></script>
+<script src="scenes_vec.js"></script>
+<script src="v2/paper.js"></script>
+<script src="v2/print.js"></script>
+<script src="v2/kt.js"></script>
+<script src="v2/world.js"></script>
+<script src="v2/sample.js"></script>
+<script src="v2/main2.js"></script>
+</body>
+</html>

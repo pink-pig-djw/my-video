@@ -1,0 +1,10 @@
+[
+ {
+  "id": "zwalk_ib_head",
+  "out": "assets/gen/zwalk_ib_head.png",
+  "aspect": "landscape",
+  "style": "edit",
+  "refs": ["assets/gen/zwalk_ib_b.png"],
+  "prompt": "Same sprite sheet, same 8 frames, same poses, positions, sizes and flat magenta background. One change in EVERY frame: the zombie has lost his HEAD: no head at all, the neck ends just above the shirt collar in a short ragged grey-green stump; everything else (jacket, tie, arms, legs, shoes, poses) stays exactly as it is."
+ }
+]

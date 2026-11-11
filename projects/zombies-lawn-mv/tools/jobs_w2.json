@@ -1,0 +1,18 @@
+[
+ {
+  "id": "bg_yard_night",
+  "out": "assets/gen/bg_yard_night.png",
+  "aspect": "landscape",
+  "style": "edit",
+  "refs": ["assets/gen/bg_yard_day.png"],
+  "prompt": "The same backyard at NIGHT, as the game's night levels: keep the exact same layout, fence, bushes, lawn stripes, swimming pool, deck, umbrella and house wall, but lit by moonlight: the sky above the fence is a deep navy blue with a few stars, the lawn is a dark cool blue-green with lighter moonlit stripes, the bushes and fence are dark blue-grey, the pool water glows turquoise from underwater lights with bright ripples, the house window glows warm yellow. No characters."
+ },
+ {
+  "id": "bg_grid_night",
+  "out": "assets/gen/bg_grid_night.png",
+  "aspect": "landscape",
+  "style": "edit",
+  "refs": ["../pvz-remake/assets/gen/t_lawn.png"],
+  "prompt": "The same front-yard lawn at NIGHT, as the game's night level: keep the exact same layout (the house on the left, the checkerboard lawn of light and dark squares, the bushes, the sidewalk and the street on the right), but lit by moonlight: dark cool blue-green grass squares, dark blue-grey house and bushes, a few small mushrooms in the grass corners, a deep navy night tint over everything, the house window glowing warm yellow. No characters, no plants on the lawn."
+ }
+]

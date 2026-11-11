@@ -1,0 +1,26 @@
+[
+ {
+  "id": "zwalk_ib_a",
+  "out": "assets/gen/zwalk_ib_a.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["assets/gen/zwalk12_a.png"],
+  "prompt": "The attached image is a 12-frame WALK CYCLE sprite sheet of a zombie (4 columns x 3 rows; number its frames 1 to 12 left to right, top to bottom). Draw 8 NEW IN-BETWEEN frames as a new sprite sheet of 4 columns x 2 rows (equal cells with clear gaps), in exactly the same style, the same zombie, the same size, facing LEFT, torso (red necktie) at the centre of each cell, shoe soles on the same ground line near the bottom of each cell, both arms hanging limply in front exactly as in the attached frames. Each new frame shows the legs exactly HALFWAY between two attached frames: the foot that stands on the ground halfway between its two positions, the lifted foot halfway along its path, the knee bend halfway.\nNew frame 1 = halfway between attached frames 3 and 4.\nNew frame 2 = halfway between attached frames 4 and 5.\nNew frame 3 = halfway between attached frames 9 and 10.\nNew frame 4 = halfway between attached frames 10 and 11.\nNew frame 5 = halfway between attached frames 2 and 3.\nNew frame 6 = halfway between attached frames 8 and 9.\nNew frame 7 = halfway between attached frames 7 and 8.\nNew frame 8 = halfway between attached frames 1 and 2.\nNo text, no numbers, no motion lines, no shadows."
+ },
+ {
+  "id": "zwalk_ib_b",
+  "out": "assets/gen/zwalk_ib_b.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["assets/gen/zwalk12_a.png"],
+  "prompt": "Animation in-betweening. The attached sprite sheet holds 12 key frames of a zombie walk cycle in a 4 x 3 grid (frames 1-12, left to right, top to bottom). Make a NEW 4 x 2 sprite sheet with 8 in-between frames of the same zombie in the identical art style and size, side view facing LEFT, the torso and head in the same place in every cell, the ground line the same in every cell, arms hanging limp in front as in the key frames. Only the legs differ, each new frame halfway between two key frames:\n(1) between keys 3 and 4, (2) between keys 4 and 5, (3) between keys 9 and 10, (4) between keys 10 and 11, (5) between keys 2 and 3, (6) between keys 8 and 9, (7) between keys 7 and 8, (8) between keys 1 and 2.\nHalfway means: the supporting foot on the ground sits halfway between where it is in the two key frames; the moving foot is halfway along its swing; knees bent halfway. No text, no numbers, no motion lines, no shadows."
+ },
+ {
+  "id": "zwalk12_head",
+  "out": "assets/gen/zwalk12_head.png",
+  "aspect": "landscape",
+  "style": "edit",
+  "refs": ["assets/gen/zwalk12_a.png"],
+  "prompt": "Same sprite sheet, same 12 frames, same poses, positions, sizes and flat magenta background. One change in EVERY frame: the zombie has lost his HEAD: no head at all, the neck ends just above the shirt collar in a short ragged grey-green stump; everything else (jacket, tie, arms, legs, shoes, poses) stays exactly as it is."
+ }
+]

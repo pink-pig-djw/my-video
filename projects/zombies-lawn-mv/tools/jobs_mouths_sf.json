@@ -1,0 +1,122 @@
+[
+ {
+  "id": "sf_mbp",
+  "out": "assets/mouth/raw/sf_mbp.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her lips pressed firmly together into a short straight closed line with the corners slightly tucked, cheeks a little puffed, as when humming 'mmm' (no opening). Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_fv",
+  "out": "assets/mouth/raw/sf_fv.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth almost closed: two small white upper front teeth rest on her lower lip, which is tucked in under them, as when singing 'f' or 'v'. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_small",
+  "out": "assets/mouth/raw/sf_small.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth slightly open in a small relaxed oval, as when singing a soft 'uh': dark brown inside with just a hint of a red tongue at the bottom. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_ah",
+  "out": "assets/mouth/raw/sf_ah.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth opened wide in a big rounded singing 'aah': a tall dark brown opening with a red tongue at the bottom, the corners slightly turned up. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_ahh",
+  "out": "assets/mouth/raw/sf_ahh.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth opened as wide as it can go in a huge joyful belted 'AAAH': a very tall rounded dark opening reaching down toward her chin, red tongue at the bottom. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_eh",
+  "out": "assets/mouth/raw/sf_eh.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth open medium-wide in a stretched singing 'eh': wider than tall, dark brown inside with the red tongue visible, the corners pulled sideways. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_ee",
+  "out": "assets/mouth/raw/sf_ee.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth stretched into a wide smile with only a narrow dark opening between the lips (a wide thin crescent), as when singing 'ee'. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_oh",
+  "out": "assets/mouth/raw/sf_oh.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth in a round open 'oh' shape: a medium-size circle, dark brown inside with the red tongue at the bottom. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_oo",
+  "out": "assets/mouth/raw/sf_oo.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth pursed into a small tight round 'oo': the lips pushed forward into a little ring with a small dark hole. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_l",
+  "out": "assets/mouth/raw/sf_l.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth open medium with the red tongue tip raised and touching just behind the upper lip, as when singing 'la'. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sf_r",
+  "out": "assets/mouth/raw/sf_r.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sf.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the mouth: her mouth slightly open in a soft rounded-square shape with the lips pushed a little forward, as when singing 'r' or 'sh'. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same eyes, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ },
+ {
+  "id": "sfe_closed",
+  "out": "assets/mouth/raw/sfe_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/sfe.png"
+  ],
+  "prompt": "Edit the attached close-up of this sunflower's face. Change ONLY the eyes: BOTH EYES CLOSED happily: each eye is now a short curved dark line arching upward (like ^ ^), the same size and place as the open eyes, as in a joyful blink; the eyebrows stay. Everything else must stay exactly as in the attached image: the same framing and crop, the same golden-brown face disc with its texture and shading, the same mouth, eyebrows and rosy cheeks, the same petals and dark outlines, the same lighting and art style. The sunflower has no teeth unless asked."
+ }
+]

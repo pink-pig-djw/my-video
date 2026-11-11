@@ -1,0 +1,10 @@
+[
+ {
+  "id": "spr_villain",
+  "out": "assets/gen/spr_villain.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "refs": ["assets/claude_ref.jpg"],
+  "prompt": "Full-body character sprite of {CLAUDE}. She is playing a cartoon villain for fun: a dramatic black cape with a tangerine-orange satin lining is clasped over her usual outfit and flares out behind her; she stands tall with one hand raised beside her face, fingers curled like a theatrical villain, the other hand on her hip; a playful, mischievous grin with one eye half-closed, cheeks slightly flushed. Theatrical warm under-lighting from below, but she still looks adorable, not scary."
+ }
+]

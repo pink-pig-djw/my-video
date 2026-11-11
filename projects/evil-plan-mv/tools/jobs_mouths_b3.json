@@ -1,0 +1,12 @@
+[
+ {
+  "id": "spr_sit_e",
+  "out": "assets/mouth/raw/spr_sit_e.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_sit.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth slightly open in a relaxed singing 'eh' shape: a medium opening showing just the upper teeth, the corners softly smiling. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ }
+]

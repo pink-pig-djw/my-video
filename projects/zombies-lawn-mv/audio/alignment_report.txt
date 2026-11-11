@@ -1,0 +1,94 @@
+  13.44-  14.20 [intro   ] S  c=1.00 Sunflower
+                                     heard: Sunflower.
+  22.56-  24.32 [intro   ] S  c=1.00 One, two, three
+                                     heard: One, two, three.
+  24.62-  25.05 [intro   ] S  c=0.00 ooh
+                                     heard:   <-- CHECK
+  25.02-  28.30 [chorus1 ] S  c=0.00 There's a zombie on your lawn
+                                     heard:   <-- CHECK
+  28.20-  32.38 [chorus1 ] S  c=1.00 There's a zombie on your lawn
+                                     heard: There's a zombie on your lawn.
+  32.20-  33.00 [chorus1 ] S~ c=0.00 (yeah)
+                                     heard:   <-- CHECK
+  33.12-  36.92 [chorus1 ] S  c=1.00 There's a zombie on your lawn
+                                     heard: There's a zombie on your lawn.
+  37.90-  41.36 [chorus1 ] S  c=0.86 We don't want zombies on the lawn
+                                     heard: We don't want zombies on lawn.
+  41.00-  41.80 [chorus1 ] S~ c=0.00 (yeah)
+                                     heard:   <-- CHECK
+  42.24-  45.46 [verse1  ] S  c=1.00 I know your type, tall, dark, and dead
+                                     heard: I know your type, all dark and dead
+  45.46-  48.36 [verse1  ] S  c=0.91 You want to bite all the petals off of my head
+                                     heard: You wanna bite all the petals off of my head
+  48.36-  51.98 [verse1  ] S  c=1.00 And then eat the brains of the one who planted me here
+                                     heard: And then eat the brains of the one who planted me here
+  52.64-  54.54 [verse1  ] S  c=1.00 I'm just a sunflower
+                                     heard: I'm just a sunflower,
+  54.76-  57.08 [verse1  ] S  c=1.00 But see me power an entire infantry
+                                     heard: but see me power an entire infantry
+  57.08-  60.60 [verse1  ] S  c=1.00 You like the taste of brains, we don't like zombies
+                                     heard: You like the taste of brains, we don't like zombies
+  63.25-  65.86 [zombies1] Z  c=0.00 I used to play football
+                                     heard:   <-- CHECK
+  65.90-  66.97 [zombies1] S~ c=0.00 (play football)
+                                     heard:   <-- CHECK
+  67.02-  69.88 [zombies1] Z  c=0.00 Road cones protect my head
+                                     heard:   <-- CHECK
+  69.86-  71.42 [zombies1] S~ c=0.00 (cone on his head)
+                                     heard:   <-- CHECK
+  71.45-  75.02 [zombies1] Z  c=0.00 I have a screen-door shield
+                                     heard:   <-- CHECK
+  75.05-  77.00 [zombies1] S~ c=0.00 (screen-door shield)
+                                     heard:   <-- CHECK
+  77.45-  79.55 [zombies1] Z  c=0.00 We are the undead!
+                                     heard:   <-- CHECK
+  78.98-  82.48 [chorus2 ] S  c=0.83 There's a zombie on your lawn
+                                     heard: There's a zombie on your
+  82.68-  86.83 [chorus2 ] S  c=0.83 There's a zombie on your lawn
+                                     heard: There's a zombie on your
+  86.90-  87.30 [chorus2 ] S~ c=0.00 (yeah)
+                                     heard:   <-- CHECK
+  87.30-  91.58 [chorus2 ] S  c=0.83 There's a zombie on your lawn
+                                     heard: There's a zombie on your
+  91.78-  96.13 [chorus2 ] S  c=0.71 We don't want zombies on the lawn
+                                     heard: We don't want zombies on
+  95.90-  96.30 [chorus2 ] S~ c=0.00 (yeah)
+                                     heard:   <-- CHECK
+  96.64-  99.92 [verse2  ] S  c=1.00 Maybe it's time to reevaluate
+                                     heard: Maybe it's time to evaluate
+  99.92- 103.18 [verse2  ] S  c=1.00 I know you have a lot of food on your plate
+                                     heard: I know you have a lot of food on your plate
+ 103.18- 105.92 [verse2  ] S  c=1.00 Brains are quite rich in cholesterol
+                                     heard: Brains are quite rich in cholesterol
+ 107.30- 109.98 [verse2  ] S  c=1.00 You're dead, so it doesn't matter
+                                     heard: You're dead so it doesn't matter
+ 109.98- 112.08 [verse2  ] S  c=0.83 Instead, we'll use this solar power
+                                     heard: Instead we'll use solar power
+ 112.08- 115.72 [verse2  ] S  c=0.88 To make a lawn defense at any hour
+                                     heard: To make a defense at any hour
+ 118.10- 120.20 [zombies2] Z  c=0.00 I like your tricycle
+                                     heard:   <-- CHECK
+ 120.22- 122.52 [zombies2] S~ c=0.00 (tricycle)
+                                     heard:   <-- CHECK
+ 122.55- 125.10 [zombies2] Z  c=0.00 There's butter on my head
+                                     heard:   <-- CHECK
+ 125.45- 126.20 [zombies2] S~ c=0.00 (on his head)
+                                     heard:   <-- CHECK
+ 126.40- 128.95 [zombies2] Z  c=0.00 I'm gonna eat your brains
+                                     heard:   <-- CHECK
+ 129.00- 130.95 [zombies2] S~ c=0.00 (no, no, no, no)
+                                     heard:   <-- CHECK
+ 132.30- 134.40 [zombies2] Z  c=0.00 We are the undead!
+                                     heard:   <-- CHECK
+ 133.82- 137.54 [chorus3 ] S  c=1.00 There's a zombie on your lawn
+                                     heard: There's a zombie on your lawn
+ 137.54- 142.08 [chorus3 ] S  c=1.00 There's a zombie on your lawn
+                                     heard: There's a zombie on your lawn
+ 141.70- 142.10 [chorus3 ] S~ c=0.00 (yeah)
+                                     heard:   <-- CHECK
+ 142.08- 146.66 [chorus3 ] S  c=1.00 There's a zombie on your lawn
+                                     heard: There's a zombie on your lawn
+ 146.66- 151.10 [chorus3 ] S  c=0.86 We don't want zombies on the lawn
+                                     heard: We don't want zombies on lawn
+ 150.80- 151.30 [chorus3 ] S~ c=0.00 (yeah)
+                                     heard:   <-- CHECK

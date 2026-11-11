@@ -1,0 +1,4 @@
+05:47:02 1 job(s), concurrency 1, model gpt-6-sol
+05:47:02 [bg_festival] start (attempt 1)
+05:58:05 [bg_festival] ok -> assets/gen/bg_festival.png (663s)
+05:58:05 done; failed: none

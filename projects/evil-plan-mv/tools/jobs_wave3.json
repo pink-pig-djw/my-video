@@ -1,0 +1,6 @@
+[
+ {"id": "bg_mother_photo", "out": "assets/gen/bg_mother_photo.png", "aspect": "portrait", "style": "warm",
+  "prompt": "An old, slightly faded sepia-toned family photograph (the photo itself fills the whole image, no frame, no table): a gentle head-and-shoulders portrait of a kind woman in her fifties with shoulder-length wavy hair, soft laugh lines and warm eyes, smiling softly at the camera, wearing a simple knitted cardigan; soft window light, shallow depth of field, a little film grain and gentle vignetting like a cherished photo kept for years. Respectful and loving."},
+ {"id": "bg_throne", "out": "assets/gen/bg_throne.png", "aspect": "landscape", "style": "night",
+  "prompt": "An empty, grand gothic villain's throne in a dark stone castle hall at night, seen from the front and slightly below: a tall black throne with spiky gothic spires, upholstered in deep tangerine-orange velvet, a large white daisy emblem glowing softly at the top of its back; a single dramatic spotlight from above, drifting haze, a long red-and-orange carpet leading up the steps, tall stained-glass windows glowing amber in the background. Theatrical and a little playful rather than scary. No people."}
+]

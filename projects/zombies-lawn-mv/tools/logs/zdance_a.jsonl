@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a17c7e-a8d0-7c33-9a37-78d5e847c1d2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the eight-frame sheet from the attached zombie references."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":42776,"cached_input_tokens":35328,"cache_write_input_tokens":0,"output_tokens":550,"reasoning_output_tokens":27}}

@@ -1,0 +1,782 @@
+[
+ {
+  "id": "spr_wave_closed",
+  "out": "assets/mouth/raw/spr_wave_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_wave.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_wave_a",
+  "out": "assets/mouth/raw/spr_wave_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_wave.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_wave_o",
+  "out": "assets/mouth/raw/spr_wave_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_wave.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_scissors_closed",
+  "out": "assets/mouth/raw/spr_scissors_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_scissors.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_scissors_a",
+  "out": "assets/mouth/raw/spr_scissors_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_scissors.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_scissors_o",
+  "out": "assets/mouth/raw/spr_scissors_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_scissors.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_greedy_closed",
+  "out": "assets/mouth/raw/spr_greedy_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_greedy.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_greedy_a",
+  "out": "assets/mouth/raw/spr_greedy_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_greedy.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_greedy_o",
+  "out": "assets/mouth/raw/spr_greedy_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_greedy.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_hips_closed",
+  "out": "assets/mouth/raw/spr_hips_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_hips.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_hips_a",
+  "out": "assets/mouth/raw/spr_hips_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_hips.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_hips_o",
+  "out": "assets/mouth/raw/spr_hips_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_hips.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_laugh_closed",
+  "out": "assets/mouth/raw/spr_laugh_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_laugh.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_laugh_a",
+  "out": "assets/mouth/raw/spr_laugh_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_laugh.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_laugh_o",
+  "out": "assets/mouth/raw/spr_laugh_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_laugh.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_burglar_closed",
+  "out": "assets/mouth/raw/spr_burglar_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_burglar.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_burglar_a",
+  "out": "assets/mouth/raw/spr_burglar_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_burglar.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_burglar_o",
+  "out": "assets/mouth/raw/spr_burglar_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_burglar.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_point_closed",
+  "out": "assets/mouth/raw/spr_point_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_point.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_point_a",
+  "out": "assets/mouth/raw/spr_point_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_point.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_point_o",
+  "out": "assets/mouth/raw/spr_point_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_point.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_phone_closed",
+  "out": "assets/mouth/raw/spr_phone_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_phone.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_phone_a",
+  "out": "assets/mouth/raw/spr_phone_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_phone.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_phone_o",
+  "out": "assets/mouth/raw/spr_phone_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_phone.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_villain_closed",
+  "out": "assets/mouth/raw/spr_villain_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_villain.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_villain_a",
+  "out": "assets/mouth/raw/spr_villain_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_villain.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_villain_o",
+  "out": "assets/mouth/raw/spr_villain_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_villain.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_jar_closed",
+  "out": "assets/mouth/raw/spr_jar_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_jar.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_jar_a",
+  "out": "assets/mouth/raw/spr_jar_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_jar.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_jar_o",
+  "out": "assets/mouth/raw/spr_jar_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_jar.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_peace_closed",
+  "out": "assets/mouth/raw/spr_peace_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_peace.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_peace_a",
+  "out": "assets/mouth/raw/spr_peace_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_peace.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_peace_o",
+  "out": "assets/mouth/raw/spr_peace_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_peace.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_open_closed",
+  "out": "assets/mouth/raw/spr_open_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_open.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_open_a",
+  "out": "assets/mouth/raw/spr_open_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_open.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_open_o",
+  "out": "assets/mouth/raw/spr_open_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_open.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_fan_closed",
+  "out": "assets/mouth/raw/spr_fan_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_fan.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_fan_a",
+  "out": "assets/mouth/raw/spr_fan_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_fan.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_fan_o",
+  "out": "assets/mouth/raw/spr_fan_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_fan.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_float_closed",
+  "out": "assets/mouth/raw/spr_float_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_float.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_float_a",
+  "out": "assets/mouth/raw/spr_float_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_float.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_float_o",
+  "out": "assets/mouth/raw/spr_float_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_float.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_lab_closed",
+  "out": "assets/mouth/raw/spr_lab_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_lab.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_lab_a",
+  "out": "assets/mouth/raw/spr_lab_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_lab.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_lab_o",
+  "out": "assets/mouth/raw/spr_lab_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_lab.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_whisper_closed",
+  "out": "assets/mouth/raw/spr_whisper_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_whisper.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_whisper_a",
+  "out": "assets/mouth/raw/spr_whisper_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_whisper.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_whisper_o",
+  "out": "assets/mouth/raw/spr_whisper_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_whisper.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_carry_closed",
+  "out": "assets/mouth/raw/spr_carry_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_carry.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_carry_a",
+  "out": "assets/mouth/raw/spr_carry_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_carry.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_carry_o",
+  "out": "assets/mouth/raw/spr_carry_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_carry.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_night_closed",
+  "out": "assets/mouth/raw/spr_night_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_night.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_night_a",
+  "out": "assets/mouth/raw/spr_night_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_night.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_night_o",
+  "out": "assets/mouth/raw/spr_night_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_night.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_cheer_closed",
+  "out": "assets/mouth/raw/spr_cheer_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_cheer.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_cheer_a",
+  "out": "assets/mouth/raw/spr_cheer_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_cheer.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_cheer_o",
+  "out": "assets/mouth/raw/spr_cheer_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_cheer.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_shrug_closed",
+  "out": "assets/mouth/raw/spr_shrug_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_shrug.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_shrug_a",
+  "out": "assets/mouth/raw/spr_shrug_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_shrug.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_shrug_o",
+  "out": "assets/mouth/raw/spr_shrug_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_shrug.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_okay_closed",
+  "out": "assets/mouth/raw/spr_okay_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_okay.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_okay_a",
+  "out": "assets/mouth/raw/spr_okay_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_okay.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_okay_o",
+  "out": "assets/mouth/raw/spr_okay_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_okay.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_lantern_closed",
+  "out": "assets/mouth/raw/spr_lantern_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_lantern.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_lantern_a",
+  "out": "assets/mouth/raw/spr_lantern_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_lantern.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_lantern_o",
+  "out": "assets/mouth/raw/spr_lantern_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_lantern.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_candle_closed",
+  "out": "assets/mouth/raw/spr_candle_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_candle.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_candle_a",
+  "out": "assets/mouth/raw/spr_candle_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_candle.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_candle_o",
+  "out": "assets/mouth/raw/spr_candle_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_candle.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_run_closed",
+  "out": "assets/mouth/raw/spr_run_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_run.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_run_a",
+  "out": "assets/mouth/raw/spr_run_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_run.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_run_o",
+  "out": "assets/mouth/raw/spr_run_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_run.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_write_closed",
+  "out": "assets/mouth/raw/spr_write_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_write.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_write_a",
+  "out": "assets/mouth/raw/spr_write_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_write.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_write_o",
+  "out": "assets/mouth/raw/spr_write_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_write.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_book_closed",
+  "out": "assets/mouth/raw/spr_book_closed.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_book.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her lips gently closed in a soft, relaxed smile (a short curved line, no teeth). Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_book_a",
+  "out": "assets/mouth/raw/spr_book_a.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_book.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth opened wide as if singing a long, bright 'aah' — a big rounded open mouth with the upper teeth and the tongue visible. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ },
+ {
+  "id": "spr_book_o",
+  "out": "assets/mouth/raw/spr_book_o.png",
+  "aspect": "square",
+  "style": "edit",
+  "refs": [
+   "assets/mouth/src/spr_book.png"
+  ],
+  "prompt": "Edit the attached image of this girl. Change ONLY her mouth: her mouth in a small round 'ooh' shape, lips softly rounded into a little circle, as if singing 'oh'. Everything else must stay exactly as in the attached image: the same framing and crop, face, eyes, eyebrows, blush, hair strands, headset microphone, clothes, colours, line art and lighting. Same art style as the attached image."
+ }
+]

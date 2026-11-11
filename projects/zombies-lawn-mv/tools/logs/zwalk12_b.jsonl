@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a17d45-4593-74c2-9072-186a8d562ebf"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll generate the 12-frame sheet from the attached reference."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":47572,"cached_input_tokens":41216,"cache_write_input_tokens":0,"output_tokens":629,"reasoning_output_tokens":70}}

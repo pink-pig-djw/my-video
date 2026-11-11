@@ -1,0 +1,125 @@
+Loading weights:   0%|          | 0/424 [00:00<?, ?it/s]Loading weights: 100%|██████████| 424/424 [00:00<00:00, 19851.59it/s]
+ 0   12.99-  14.65 conf  -0.70 | Sunflower
+     heard: s ʌ m f l aʊ ɚ d
+     Sunflower@13.51
+ 1   22.11-  24.47 conf  -5.22 | One, two, three
+     heard: w ai5 n tɕ i5 t ei5 s
+     One,@22.99 two,@23.53 three@24.11
+ 2   24.56-  25.13 conf  -9.37 | ooh
+     heard: ə5 s. a5
+     ooh@24.96
+ 3   24.96-  28.38 conf  -5.79 | There's a zombie on your lawn
+     heard: s a s aː b i h i u n dʒ u a a t a
+     There's@24.98 a@25.32 zombie@25.42 on@26.46 your@26.68 lawn@27.04
+ 4   28.25-  32.75 conf  -3.66 | There's a zombie on your lawn
+     heard: d ɛ s ə s b r i m j a n j ɑ l ɑ
+     There's@29.25 a@29.61 zombie@29.79 on@31.03 your@31.25 lawn@31.81
+ 6   32.75-  37.37 conf  -4.56 | There's a zombie on your lawn
+     heard: j e s s aː b i ɑ j ɑ t h h
+     There's@33.93 a@34.17 zombie@34.33 on@35.59 your@35.81 lawn@36.33
+ 7   37.45-  41.80 conf  -3.97 | We don't want zombies on the lawn
+     heard: w iː k u b a ts aː b i ts aː n aː t h
+     We@38.07 don't@38.37 want@38.67 zombies@38.91 on@40.17 the@40.65 lawn@40.89
+ 9   41.80-  45.46 conf  -2.85 | I know your type, tall, dark, and dead
+     heard: aɪ n uː z j oː t a k t ɑ d ɑ r k i h a n d ɛ
+     I@42.76 know@43.0 your@43.26 type,@43.56 tall,@44.08 dark,@44.56 and@45.06 dead@45.28
+10   45.46-  48.36 conf  -3.20 | You want to bite all the petals off of my head
+     heard: ɡ iː k w a n ə p aɪ aʊ ð ə p a r s aː p ɔ p m a a h ɛ
+     You@45.7 want@45.86 to@46.2 bite@46.28 all@46.7 the@46.82 petals@46.96 off@47.32 of@47.62 my@47.84 head@48.12
+11   48.36-  52.31 conf  -2.63 | And then eat the brains of the one who planted me here
+     heard: ħ a n a n iː t a p eɪ n z a m ð ə w aː n uː p l æ n l i t m iː x i5
+     And@48.64 then@48.98 eat@49.2 the@49.4 brains@49.68 of@50.04 the@50.24 one@50.38 who@50.72 planted@50.84 me@51.26 here@51.5
+12   52.31-  54.65 conf  -1.13 | I'm just a sunflower
+     heard: æ n dʒ ʌ s d ə s æ n f l aʊ ɚ
+     I'm@53.05 just@53.27 a@53.61 sunflower@53.73
+13   54.65-  57.08 conf  -1.36 | But see me power an entire infantry
+     heard: b æ ts uː m iː p aʊ ɹ æ n ɪ n t aɪ j ɚ ɹ ɪ n f ə tʃ uː
+     But@54.71 see@54.97 me@55.27 power@55.51 an@55.89 entire@55.99 infantry@56.63
+14   57.08-  61.05 conf  -1.68 | You like the taste of brains, we don't like zombies
+     heard: i j uː l aɪ k ð æ t i s t ʌ p eɪ n z w iː d ɔ̃ l aɪ k s æ p i
+     You@57.54 like@57.84 the@58.1 taste@58.4 of@58.76 brains,@58.96 we@59.3 don't@59.52 like@59.84 zombies@60.08
+15   63.19-  65.94 conf  -2.74 | I used to play football
+     heard: aɪ j uː s t uː ʃ eɪ k ɚ t f ɔː
+     I@63.37 used@63.59 to@63.93 play@64.13 football@64.61
+16   65.84-  67.05 conf  -6.13 | (play football)
+     heard: t ɑ x a
+     play@65.86 football@66.38
+17   66.96-  69.96 conf  -2.42 | Road cones protect my head
+     heard: ou5 t ɑu5 n ts p ɚ t ɛ k t m aɪ h æ
+     Road@67.88 cones@68.16 protect@68.52 my@69.16 head@69.52
+18   69.80-  71.50 conf  -4.44 | (cone on his head)
+     heard: a a
+     cone@69.9 on@70.24 his@70.4 head@70.88
+19   71.39-  75.10 conf  -2.20 | I have a screen-door shield
+     heard: aɪ ʌ v ʌ s k ɹ eɪ d o ʃ i z
+     I@72.41 have@72.65 a@72.95 screen-door@73.13 shield@74.05
+20   74.99-  77.08 conf  -4.98 | (screen-door shield)
+     heard: m aɪ s t i j ɑ d
+     screen-door@75.37 shield@75.97
+21   77.39-  79.63 conf  -6.61 | We are the undead!
+     heard: w uei5 j iɑ5 t i5 j iɑ5 l iɜ n t ə5
+     We@77.51 are@77.85 the@78.11 undead!@78.43
+22   79.27-  82.58 conf  -5.62 | There's a zombie on your lawn
+     heard: b i s a s a h aː b iː b a dʒ u a t a
+     There's@79.725 a@79.905 zombie@80.085 on@81.325 your@81.545 lawn@81.705
+23   82.58-  87.06 conf  -3.47 | There's a zombie on your lawn
+     heard: d eɪ s əɜ s x t ɹ i5 j a5 n j əɜ n ɑu5
+     There's@84.103 a@84.463 zombie@84.643 on@85.883 your@86.103 lawn@86.303
+25   87.06-  91.68 conf  -4.67 | There's a zombie on your lawn
+     heard: f i h a z a n ʃ h aː b l i h ɑ ɟ ɑ t a h
+     There's@88.665 a@89.025 zombie@89.185 on@90.445 your@90.665 lawn@91.205
+26   91.68-  96.38 conf  -4.00 | We don't want zombies on the lawn
+     heard: x aː b i h u ɡ w a ts aː b i ts ɑ n l a n t a h aː
+     We@92.94 don't@93.24 want@93.54 zombies@93.76 on@95.02 the@95.24 lawn@95.76
+28   96.38-  99.92 conf  -3.82 | Maybe it's time to reevaluate
+     heard: aː m m eː d uː ʃ e r s t n a n e b t ʉ r i a v a l dʒ uː
+     Maybe@97.565 it's@98.165 time@98.405 to@98.845 reevaluate@99.005
+29   99.92- 103.18 conf  -1.98 | I know you have a lot of food on your plate
+     heard: w eɪ a n d ɹ oʊ j uː h æ b ɐ l ʌ r f uː d aɪ n dʒ ʉ l ɔɨ p n eɪ
+     I@100.6 know@100.66 you@100.96 have@101.1 a@101.44 lot@101.56 of@101.72 food@101.82 on@102.28 your@102.54 plate@102.94
+30  103.18- 106.37 conf  -1.49 | Brains are quite rich in cholesterol
+     heard: d b eɪ iː n z ɑː k w aɪ p ɪ tʃ dʒ eɪ n k ʌ l æ s t ɜː ɹ ə b ɹ ɑː
+     Brains@103.54 are@103.88 quite@104.1 rich@104.44 in@104.76 cholesterol@104.96
+31  106.85- 109.98 conf  -2.15 | You're dead, so it doesn't matter
+     heard: h j ɔ d ɛ d s oʊ ɪ d ʌ z n a r ə
+     You're@107.83 dead,@108.13 so@108.39 it@108.75 doesn't@109.15 matter@109.61
+32  109.98- 112.08 conf  -2.13 | Instead, we'll use this solar power
+     heard: n ɪ n s æ ɾ w e n h i h uː z ð ə s oʊ ð ə p aʊ
+     Instead,@110.16 we'll@110.7 use@110.96 this@111.3 solar@111.46 power@111.84
+33  112.08- 116.17 conf  -1.20 | To make a lawn defense at any hour
+     heard: t uː m eɪ k ɐ l ʌ ŋ d ɪ f ɹ ʌ n s ə ɛ n i aʊ
+     To@112.42 make@112.72 a@113.06 lawn@113.24 defense@113.58 at@114.18 any@114.48 hour@115.34
+34  118.04- 120.28 conf  -4.41 | I like your tricycle
+     heard: ai5 l ai5 k i.5 ts. ai5 s i.5 k ə5
+     I@118.14 like@118.38 your@118.7 tricycle@118.92
+35  120.16- 122.60 conf  -4.72 | (tricycle)
+     heard: d e r k ɑ r ɑ
+     tricycle@120.7
+36  122.49- 125.18 conf  -5.05 | There's butter on my head
+     heard: t iɛ5 ts. a5 t i.5 s. ɑu5 n m ai5 h ei5
+     There's@122.61 butter@122.99 on@123.67 my@124.05 head@124.51
+37  125.39- 126.28 conf  -7.56 | (on his head)
+     heard: x u5 ei5
+     on@125.67 his@125.77 head@125.95
+38  126.34- 129.03 conf  -7.14 | I'm gonna eat your brains
+     heard: ai5 k əɜ n ə1 ts. onɡ5 uoɜ o5
+     I'm@127.28 gonna@127.54 eat@128.08 your@128.54 brains@128.74
+39  128.94- 131.03 conf  -5.31 | (no, no, no, no)
+     heard: o2 ɛ l a l a s
+     no,@128.96 no,@129.34 no,@129.84 no@130.14
+40  132.24- 134.48 conf  -6.15 | We are the undead!
+     heard: w ei5 ɕ y5 j iɑ5 t iɜ j iɑ5 iɜ n t əɜ
+     We@132.36 are@132.7 the@132.96 undead!@133.3
+41  134.11- 137.54 conf  -5.16 | There's a zombie on your lawn
+     heard: s a s a q a n d i f i q i j u j a d
+     There's@134.29 a@134.75 zombie@134.95 on@135.89 your@136.41 lawn@136.75
+42  137.54- 142.08 conf  -3.35 | There's a zombie on your lawn
+     heard: n ð eɪ s əɜ s ɑ t iː j æ n ɡ ɑ m aː
+     There's@138.96 a@139.32 zombie@139.5 on@140.74 your@140.96 lawn@141.52
+44  142.08- 146.66 conf  -5.16 | There's a zombie on your lawn
+     heard: r b i d i k a s a ʃ h ɑ b i dʒ i j ɑ n j o r b a
+     There's@143.54 a@143.9 zombie@144.04 on@145.32 your@145.52 lawn@145.9
+45  146.66- 151.55 conf  -4.24 | We don't want zombies on the lawn
+     heard: aː l i uː w a n ts aː b i s ɑ n d a l a h
+     We@147.8 don't@148.12 want@148.38 zombies@148.62 on@149.88 the@150.1 lawn@150.62
+done render/lipcheck/pa.json

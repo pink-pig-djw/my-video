@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a148e2-f27f-7881-bb86-47781e273429"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’m using the image generation tool to make the mouth edit."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":35893,"cached_input_tokens":29696,"cache_write_input_tokens":0,"output_tokens":267,"reasoning_output_tokens":64}}

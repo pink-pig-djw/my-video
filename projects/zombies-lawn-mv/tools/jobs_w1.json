@@ -1,0 +1,235 @@
+[
+ {
+  "id": "sf_head",
+  "out": "assets/gen/sf_head.png",
+  "aspect": "square",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/sunflower.png"],
+  "prompt": "The SUNFLOWER plant's HEAD ONLY (no stem, no leaves, no neck), seen straight from the front and filling most of the frame (the petal ring spans about 85% of the image width), perfectly upright and symmetric. A full ring of bright yellow pointed petals with orange-gold shading around a big round warm golden-brown face disc with a subtle seed texture. The face: two tall glossy black oval eyes with white highlights, rosy orange cheeks, and the MOUTH CLOSED in a gentle happy smile: a short curved dark smile line with the lips closed (no opening, no tongue). Same character, colours and outline weight as the sunflower in the attached reference."
+ },
+ {
+  "id": "sf_body",
+  "out": "assets/gen/sf_body.png",
+  "aspect": "square",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/sunflower.png"],
+  "prompt": "ONLY the BODY of the sunflower plant from the attached reference, WITHOUT its flower head: a single smooth green stem rising straight up from a cluster of big glossy green leaves at its base (the leaves spread out left and right at the bottom, exactly like the reference), seen from the front. The top of the stem ends in a plain rounded green tip, because the flower head will be attached there later: do NOT draw any flower, petals or face. The whole body is centred and fills about 70% of the image height."
+ },
+ {
+  "id": "stage",
+  "out": "assets/gen/stage.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/award_bg.png"],
+  "prompt": "A small cheerful backyard CONCERT STAGE seen from the front and slightly above: a low raised platform of warm wooden planks with a dark front edge; behind it a black metal lighting-truss arch (square lattice beams) framing the stage; two big black loudspeaker cabinets with round grey speaker cones stand on the left and right ends of the platform; four round stage spotlights hang from the top truss (one red, one blue, one yellow, one green, lenses facing the viewer); a thin black cable runs along the floor. The CENTRE of the platform is completely empty (the singer will stand there). No people, no plants, no microphone."
+ },
+ {
+  "id": "mic",
+  "out": "assets/gen/mic.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "prompt": "A retro chrome stage MICROPHONE (rounded silver grille head) on a slim black microphone stand with a round heavy base, seen from the front, standing upright and centred, filling about 80% of the image height."
+ },
+ {
+  "id": "zdance_a",
+  "out": "assets/gen/zdance_a.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/frames/zf_idle.png", "../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "ANIMATION SPRITE SHEET in the same 4 columns x 2 rows grid layout and cell size as the first attached sheet: 8 frames of the SAME basic zombie (brown torn suit jacket, white shirt, red necktie, blue ragged trousers, brown shoes, grey-green skin, big round eyes) DANCING a goofy party dance to music, seen from the same three-quarter side view facing LEFT. Same size, same ground line and same horizontal placement in every cell, the whole zombie inside its cell. The frames loop (frame 8 leads back to frame 1):\n1) body leaning to the LEFT, both arms stretched straight forward at shoulder height (classic zombie reach), right knee bent, head tilted left;\n2) upright, both arms swinging UP above the head, hands limp, mouth wide open, both feet flat;\n3) body leaning to the RIGHT, both arms stretched forward at shoulder height, left knee bent, head tilted right;\n4) knees bent in a little squat, both arms swinging DOWN low in front of the knees, head bobbing down;\n5) leaning LEFT, the near arm raised high above the head and the far arm reaching forward, one foot lifted off the ground;\n6) upright, both arms at shoulder height bent at the elbows, shoulders shrugged up;\n7) leaning RIGHT, the far arm raised high and the near arm reaching forward, the other foot lifted;\n8) knees bent in a little squat, arms swinging down low, head bobbing down.\nNo text, no numbers, no motion lines, no shadows."
+ },
+ {
+  "id": "zdance_b",
+  "out": "assets/gen/zdance_b.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/frames/zf_idle.png", "../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "ANIMATION SPRITE SHEET in the same 4 columns x 2 rows grid layout and cell size as the first attached sheet: 8 frames of the SAME basic zombie (brown torn suit jacket, white shirt, red necktie, blue ragged trousers, brown shoes, grey-green skin, big round eyes) doing a spooky monster-movie DANCE, seen from the same three-quarter side view facing LEFT. Same size, same ground line and same horizontal placement in every cell, the whole zombie inside its cell. The frames loop (frame 8 leads back to frame 1):\n1) both hands held up beside the LEFT side of the head like claws (fingers curled), elbows bent, head turned left, feet apart;\n2) a sidestep: the near foot lifted and stepping out, claws still up on the left;\n3) both hands up beside the RIGHT side of the head like claws, head turned right, feet apart;\n4) a sidestep the other way: the far foot lifted, claws still up on the right;\n5) shoulders shimmying: torso twisted left, both arms hanging loose and swinging to the left, mouth wide open;\n6) torso twisted right, both arms swinging to the right;\n7) a little hop: both knees bent, both arms thrown up in a V above the head;\n8) landing: knees bent, arms coming down to shoulder height.\nNo text, no numbers, no motion lines, no shadows."
+ },
+ {
+  "id": "zduck",
+  "out": "assets/gen/zduck.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/frames/zf_idle.png", "../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "ANIMATION SPRITE SHEET in the same 4 columns x 2 rows grid layout and cell size as the first attached sheet: 8 frames of the SAME basic zombie FLOATING IN A SWIMMING POOL inside a yellow rubber-duck swim ring (a round inflatable yellow ring with a cute duck head and orange beak at the front). Only the ring and the zombie's body above the ring are visible: the zombie's legs and hips are hidden inside the ring (the ring's inner hole is filled by his body; nothing is drawn below the ring, no water). Three-quarter side view facing LEFT, same size in every cell, the ring at the same height in every cell. He sways and waves his arms to music, the frames loop: 1) arms reaching forward; 2) arms raised up high; 3) leaning left, arms swinging left; 4) arms down on the ring; 5) arms reaching forward; 6) arms raised up high, mouth wide open; 7) leaning right, arms swinging right; 8) arms down on the ring. No water, no splashes, no text."
+ },
+ {
+  "id": "bg_yard_day",
+  "out": "assets/gen/bg_yard_day.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "refs": ["../pvz-remake/assets/gen/t_bgA.png"],
+  "prompt": "Wide game background seen from a HIGH angle, looking down onto a sunny suburban BACKYARD, in the style of the attached reference. The upper part of the image is a big empty lawn with alternating light-green and darker-green grass stripes running left to right, bordered at the very top by a wooden picket fence and round green bushes. The LOWER third is a long rectangular backyard SWIMMING POOL running across the whole width, with bright clear blue water, soft white light ripples and white-and-grey tile edging. At the far LEFT edge: the white wooden back wall of the house with a window and a wooden deck with a garden table and an orange-and-white striped patio umbrella. No characters, no plants on the lawn, no stage, no people."
+ },
+ {
+  "id": "bg_roof",
+  "out": "assets/gen/bg_roof.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "refs": ["../pvz-remake/assets/gen/t_bgA.png"],
+  "prompt": "Wide game background: the big sloping ROOF of a suburban house seen from a high angle on a sunny day. Most of the image is a broad roof slope covered in rows of orange-red clay roof tiles, rising from the bottom of the image toward the top right; a red-brick chimney stands near the LEFT edge; above the roof ridge at the top: blue sky with puffy white clouds and the leafy green tops of trees. No characters, no plants, no stage, no people."
+ },
+ {
+  "id": "bg_door",
+  "out": "assets/gen/bg_door.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "refs": ["../pvz-remake/assets/gen/t_bgA.png"],
+  "prompt": "Game background: the BACK of a cosy suburban house seen from the backyard, from a slightly high angle, on a sunny day. The white wooden house wall with a window and an OPEN back door (the doorway is dark inside) fills the left half; three wooden steps lead up from the lawn to a small wooden deck in front of the door; terracotta flower pots with green plants beside the steps; a garden barbecue grill and a striped patio umbrella on the deck; on the right the green lawn and the corner of a blue swimming pool. No characters, no people, no text."
+ },
+ {
+  "id": "crowd_faces",
+  "out": "assets/gen/crowd_faces.png",
+  "aspect": "landscape",
+  "style": "scene",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "A HUGE dense crowd of the basic zombie's heads packed tightly together, seen from slightly above, filling the ENTIRE image edge to edge with no gaps and no background visible: dozens of grey-green zombie faces of the same character as the attached reference, with big round goofy eyes (pupils of different sizes), open mouths with a few crooked teeth, messy hair strands, brown suit shoulders; all of them looking up at the viewer in excitement, closer heads bigger at the bottom, smaller heads toward the top. Cartoon game art, no text."
+ },
+ {
+  "id": "z_football",
+  "out": "assets/gen/z_football.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "The FOOTBALL ZOMBIE: the same zombie character style as the attached reference (grey-green skin, big round eyes, gaping mouth) but dressed as an American football player: a shiny red football helmet with a white stripe and a grey face guard, big red shoulder pads with white trim, a red jersey, white football trousers, black cleats; hunched and charging forward, one arm reaching forward, three-quarter side view facing LEFT, full body, standing."
+ },
+ {
+  "id": "z_cone",
+  "out": "assets/gen/z_cone.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png", "../pvz-remake/assets/gen/cones.png"],
+  "prompt": "The CONEHEAD ZOMBIE: exactly the basic zombie of the first attached reference (brown suit jacket, red tie, blue ragged trousers), standing, three-quarter side view facing LEFT, both arms reaching forward, wearing an orange-and-white striped ROAD TRAFFIC CONE on his head like a hat (the cone like the first cone in the second reference), the cone sitting down over the top of his skull. Full body."
+ },
+ {
+  "id": "z_door",
+  "out": "assets/gen/z_door.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "The SCREEN-DOOR ZOMBIE: the basic zombie of the attached reference (brown suit jacket, red tie, blue ragged trousers, grey-green skin, big round eyes), standing, three-quarter side view facing LEFT, holding a metal SCREEN DOOR in front of his body as a shield with both hands: a tall rectangular grey metal door frame with a fine grey wire-mesh screen, a small handle; his head and feet are visible above and below the door. Full body."
+ },
+ {
+  "id": "z_trike",
+  "out": "assets/gen/z_trike.png",
+  "aspect": "square",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "The basic zombie of the attached reference (brown suit jacket, red tie, blue ragged trousers, grey-green skin, big round eyes) happily RIDING a tiny child's TRICYCLE that is far too small for him: a pink-and-white kid's tricycle with a big front wheel, two small back wheels, white tassels on the handlebars and a little bell; his knees stick up high, hands on the handlebars, a delighted goofy face. Three-quarter side view facing LEFT, full figure."
+ },
+ {
+  "id": "z_butter",
+  "out": "assets/gen/z_butter.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "The basic zombie of the attached reference (brown suit jacket, red tie, blue ragged trousers, grey-green skin, big round eyes), standing, three-quarter side view facing LEFT, both arms reaching forward, with a big glossy yellow PAT OF BUTTER (a soft rectangular block of butter, slightly melting and dripping) stuck on top of his head; his eyes look up at it, cross-eyed and dazed. Full body."
+ },
+ {
+  "id": "z_dolphin",
+  "out": "assets/gen/z_dolphin.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "The DOLPHIN RIDER ZOMBIE: a zombie in the style of the attached reference (grey-green skin, big round eyes, gaping mouth) wearing a black wetsuit, a yellow snorkel mask pushed on his forehead, RIDING on the back of a big friendly grey DOLPHIN that is leaping forward, holding on to the dolphin's fin; seen from the side, both facing LEFT, the dolphin's whole body visible, no water."
+ },
+ {
+  "id": "z_bungee",
+  "out": "assets/gen/z_bungee.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "The BUNGEE ZOMBIE: a zombie in the style of the attached reference (grey-green skin, big round eyes, gaping mouth) dropping down head-first from the sky on a bungee cord: he wears a white jumpsuit with a harness, his body points downward with both arms stretched down reaching, a thick striped bungee cord goes straight UP from his ankles out of the top of the image. Upside down, seen from the front. Full figure."
+ },
+ {
+  "id": "robot_foot",
+  "out": "assets/gen/robot_foot.png",
+  "aspect": "portrait",
+  "style": "sprite",
+  "prompt": "The giant LEG and FOOT of a huge zombie-built ROBOT, as in a cartoon game boss: a thick steel-grey metal leg made of riveted armour plates with a big round knee joint and hydraulic pistons, ending in a massive clunky metal FOOT with three blunt toes, shown from the side (toes pointing LEFT), the leg rising straight up out of the top of the image (the leg is cut off by the top edge). Dark outlines, glossy metal highlights, slightly rusty and dented."
+ },
+ {
+  "id": "brain",
+  "out": "assets/gen/brain.png",
+  "aspect": "square",
+  "style": "sprite",
+  "prompt": "A big cute glossy cartoon BRAIN, bright pink with deeper pink shading and soft swirly folds, shiny white highlights, plump and juicy, slightly tilted three-quarter view, centred and filling most of the frame."
+ },
+ {
+  "id": "plate",
+  "out": "assets/gen/plate.png",
+  "aspect": "landscape",
+  "style": "sprite",
+  "prompt": "An empty round white porcelain DINNER PLATE seen from a three-quarter view above (an ellipse), with a raised rim, a soft grey inner shadow and a glossy highlight. Centred, filling about 80% of the width."
+ },
+ {
+  "id": "heart",
+  "out": "assets/gen/heart.png",
+  "aspect": "square",
+  "style": "sprite",
+  "prompt": "A cute cartoon red HEART character (the organ drawn as a classic plump love-heart shape), glossy bright red with deeper red shading and white highlights, with a small cute face: two little black oval eyes and a small worried wobbly mouth, one bead of sweat on its side. Centred, filling most of the frame."
+ },
+ {
+  "id": "jaws",
+  "out": "assets/gen/jaws.png",
+  "aspect": "landscape",
+  "style": "parts",
+  "refs": ["../pvz-remake/assets/gen/t_zombie.png"],
+  "prompt": "PARTS SHEET of a big cartoon zombie MOUTH for a chomping animation, seen from the front: (1) on the left, the UPPER jaw: a wide grey-green upper lip with a row of crooked off-white teeth pointing down; (2) on the right, the LOWER jaw: a grey-green lower lip and chin with a row of crooked off-white teeth pointing up. The two pieces are drawn separately with a wide gap between them."
+ },
+ {
+  "id": "petal",
+  "out": "assets/gen/petal.png",
+  "aspect": "square",
+  "style": "parts",
+  "refs": ["../pvz-remake/assets/gen/sunflower.png"],
+  "prompt": "PARTS SHEET: six single loose sunflower PETALS (exactly like the petals of the attached sunflower: bright yellow, pointed tip, orange-gold shading, dark outline), each drawn separately with wide gaps between them, in slightly different curls and angles, two rows of three."
+ },
+ {
+  "id": "fog",
+  "out": "assets/gen/fog.png",
+  "aspect": "landscape",
+  "style": "parts",
+  "prompt": "PARTS SHEET: six big soft fluffy FOG / mist cloud puffs in the cartoon game style, pale blue-white with gentle lavender-grey shading, soft rounded billowy shapes with NO outlines, of different shapes and sizes, each drawn separately with wide gaps between them, two rows of three."
+ },
+ {
+  "id": "plants_a",
+  "out": "assets/gen/plants_a.png",
+  "aspect": "landscape",
+  "style": "parts",
+  "refs": ["../pvz-remake/assets/gen/t_peashooter.png", "../pvz-remake/assets/gen/wallnut.png"],
+  "prompt": "PARTS SHEET of three different plant characters from the same game, each a complete separate full-body sprite standing on its little leaves, facing RIGHT, same rendering as the attached references, with wide gaps between them: (1) SNOW PEA: exactly like the attached peashooter but icy pale blue with a frosty crystal leaf crest on its head; (2) REPEATER: like the attached peashooter but darker green with TWO leaves on the back of its head and an angry determined brow; (3) KERNEL-PULT: a cute ear of yellow corn in its green husk leaves with a little face, standing on leaves, with a small wooden catapult arm holding a yellow butter pat on its head."
+ },
+ {
+  "id": "plants_b",
+  "out": "assets/gen/plants_b.png",
+  "aspect": "landscape",
+  "style": "parts",
+  "refs": ["../pvz-remake/assets/gen/t_peashooter.png"],
+  "prompt": "PARTS SHEET of three different night MUSHROOM plant characters from the same game, each a complete separate full-body sprite, facing RIGHT, same rendering as the attached reference, with wide gaps between them: (1) PUFF-SHROOM: a tiny purple-capped mushroom with a stubby cream stem, sleepy cute face and a short tube-like mouth; (2) FUME-SHROOM: a bigger mushroom with a round purple cap with lighter spots and a wide cream body with a big funnel-shaped mouth, determined eyes; (3) SUN-SHROOM: a small mushroom with a round warm yellow-orange glowing cap and a cream stem, happy face."
+ },
+ {
+  "id": "title_brains",
+  "out": "assets/gen/title_brains.png",
+  "aspect": "landscape",
+  "style": "title",
+  "refs": ["../pvz-remake/assets/gen/brains_text.png"],
+  "prompt": "A big cartoon game TITLE in exactly the lettering style of the attached reference (thick bubbly slime-green letters with darker green outlines, glossy highlights and slime drips oozing off the bottoms), but the text is English, in three lines, centred: THE ZOMBIES / ATE YOUR / BRAINS! (the word BRAINS! biggest). Spell it exactly: THE ZOMBIES ATE YOUR BRAINS!"
+ },
+ {
+  "id": "title_undead",
+  "out": "assets/gen/title_undead.png",
+  "aspect": "landscape",
+  "style": "title",
+  "prompt": "A big spooky cartoon TITLE: the words WE ARE THE UNDEAD! on one line (or two lines: WE ARE / THE UNDEAD!), in thick wobbly blood-red horror-movie letters with dark maroon outlines, glossy highlights and thick red drips running down from the bottom of every letter, slightly jittery uneven baseline. Spell it exactly: WE ARE THE UNDEAD!"
+ },
+ {
+  "id": "title_end",
+  "out": "assets/gen/title_end.png",
+  "aspect": "landscape",
+  "style": "title",
+  "refs": ["../pvz-remake/assets/gen/load_logo.png"],
+  "prompt": "A cartoon game LOGO with the title text ZOMBIES ON YOUR LAWN, in the spirit of the attached logo's lettering: the word ZOMBIES big, in chunky cracked grey tombstone-stone letters with dark outlines and a hint of moss; below it the words ON YOUR LAWN in chunky bright leafy-green letters with grass tufts growing on top and two tiny white daisies; a small cute yellow sunflower peeking from the right end and a grey-green zombie hand reaching up from the soil below the left end. Spell it exactly: ZOMBIES ON YOUR LAWN"
+ }
+]

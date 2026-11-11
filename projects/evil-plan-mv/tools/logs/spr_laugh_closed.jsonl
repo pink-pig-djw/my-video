@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a148db-09e5-70b1-aa15-e2f2b3ff8c3f"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’m using the image generation tool to make the mouth-only edit."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":35901,"cached_input_tokens":29696,"cache_write_input_tokens":0,"output_tokens":289,"reasoning_output_tokens":58}}

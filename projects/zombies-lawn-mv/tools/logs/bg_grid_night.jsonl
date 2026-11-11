@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a17c97-fc8a-7171-bfd1-279418a2bcf7"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"I’ll edit the attached image into a night scene."}}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"DONE"}}
+{"type":"turn.completed","usage":{"input_tokens":38105,"cached_input_tokens":32896,"cache_write_input_tokens":0,"output_tokens":430,"reasoning_output_tokens":124}}
